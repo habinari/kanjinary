@@ -1,5 +1,20 @@
 {
     "kanji" : "一",
     "kunyomi" : ["ひと"],
-    "onyomi" : ["イチ", "イツ"]
+    "onyomi" : ["イチ", "イツ"],
+    "words" : [
+        {
+            "kotoba" : "一年",
+            "reading" : "いち.ねん",
+            "meanings" : ["Un año"]
+        },
+        {
+            "kotoba" : "一ぴき",
+            "reading" : "いっ.ぴき",
+            "meanings" : ["Un animal"]
+        }
+    ],
+    "radicals" : ["一"],
+    "strokes" : 1,
+    "level" : "小学校の１年"
 }
