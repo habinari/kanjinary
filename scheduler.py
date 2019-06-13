@@ -12,8 +12,36 @@ with open('./data/all.json') as all_data:
 # Save all kanji as individual json file
 index = 0
 for kanji in all_kanjis:
-    with io.open('./docs/static/kanji/' + kanji['kanji'] + '.json', 'w', encoding='utf8') as outfile:  
+    with io.open('./docs/static/kanji/' + kanji['kanji'] + '.json', 'w', encoding='utf8') as outfile:
         kanji['id'] = index
         index += 1
         json.dump(kanji, outfile, ensure_ascii=False)
+
+# Save all kanji reference by level
+all_levels = []
+for kanji in all_kanjis:
+    level_already_crated = False
+    for level in all_levels:
+        if level['name'] == kanji['level']:
+            level['kanjis'].append(kanji)
+            level_already_crated = True
+    if not level_already_crated:
+        level = {}
+        level['name'] = kanji['level']
+        level['kanjis'] = []
+        level['kanjis'].append(kanji)
+        all_levels.append(level)
+
+index = 0
+for level in all_levels:
+    with io.open('./docs/static/lvl/' + level['name'] + '.json', 'w', encoding='utf8') as outfile:
+        level['id'] = index
+        index += 1
+        json.dump(level, outfile, ensure_ascii=False)
+
+    
+    
+    
+
+    
 
