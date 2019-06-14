@@ -17,7 +17,7 @@ for kanji in all_kanjis:
         index += 1
         json.dump(kanji, outfile, ensure_ascii=False)
 
-# Save all kanji character by level (list)
+# Get all kanji character order by level (lists)
 all_levels = []
 for kanji in all_kanjis:
     level_already_crated = False
