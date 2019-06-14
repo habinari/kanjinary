@@ -17,7 +17,7 @@ for kanji in all_kanjis:
         index += 1
         json.dump(kanji, outfile, ensure_ascii=False)
 
-# Save all kanji reference by level
+# Save all kanji character by level (list)
 all_levels = []
 for kanji in all_kanjis:
     level_already_crated = False
@@ -32,6 +32,7 @@ for kanji in all_kanjis:
         level['kanjis'].append(kanji)
         all_levels.append(level)
 
+# Write all levels
 index = 0
 for level in all_levels:
     with io.open('./docs/static/lvl/' + level['name'] + '.json', 'w', encoding='utf8') as outfile:
