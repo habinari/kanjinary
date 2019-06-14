@@ -22,12 +22,12 @@ all_levels = []
 for kanji in all_kanjis:
     level_already_crated = False
     for level in all_levels:
-        if level['name'] == kanji['level']:
+        if level['name'] == kanji['lvl']:
             level['kanjis'].append(kanji)
             level_already_crated = True
     if not level_already_crated:
         level = {}
-        level['name'] = kanji['level']
+        level['name'] = kanji['lvl']
         level['kanjis'] = []
         level['kanjis'].append(kanji)
         all_levels.append(level)

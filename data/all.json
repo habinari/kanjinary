@@ -17,7 +17,7 @@
         ],
         "radicals" : ["一"],
         "strokes" : 1,
-        "level" : "小学校の１年"
+        "lvl" : "小学校の１年"
     },{
         "kanji" : "右",
         "kunyomi" : ["みぎ"],
@@ -36,7 +36,7 @@
         ],
         "radicals" : ["口", "一", "ノ"],
         "strokes" : 5,
-        "level" : "小学校の１年"
+        "lvl" : "小学校の１年"
     },{
         "kanji" : "引",
         "kunyomi" : ["ひ"],
@@ -60,6 +60,6 @@
         ],
         "radicals" : ["弓", "｜"],
         "strokes" : 4,
-        "level" : "小学校の２年"
+        "lvl" : "小学校の２年"
     }
 ]
