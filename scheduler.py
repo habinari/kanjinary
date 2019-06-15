@@ -15,7 +15,7 @@ for kanji in all_kanjis:
     with io.open('./docs/static/kanji/' + kanji['kanji'] + '.json', 'w', encoding='utf8') as outfile:
         kanji['id'] = index
         index += 1
-        json.dump(kanji, outfile, ensure_ascii=False)
+        json.dump(kanji, outfile, indent=4, ensure_ascii=False)
 
 # Get all kanji character order by level (lists)
 all_levels = []
@@ -38,7 +38,7 @@ for level in all_levels:
     with io.open('./docs/static/lvl/' + level['name'] + '.json', 'w', encoding='utf8') as outfile:
         level['id'] = index
         index += 1
-        json.dump(level, outfile, ensure_ascii=False)
+        json.dump(level, outfile, indent=4, ensure_ascii=False)
 
     
     

@@ -1,1 +1,72 @@
-{"name": "小学校の１年", "kanjis": [{"kanji": "一", "kunyomi": ["ひと"], "onyomi": ["イチ", "イツ"], "words": [{"kotoba": "一年", "reading": "いち.ねん", "meanings": ["Un año"]}, {"kotoba": "一ぴき", "reading": "いっ.ぴき", "meanings": ["Un animal"]}], "radicals": ["一"], "strokes": 1, "lvl": "小学校の１年", "id": 0}, {"kanji": "右", "kunyomi": ["みぎ"], "onyomi": ["ウ", "ユウ"], "words": [{"kotoba": "左右", "reading": "さ.ゆう", "meanings": ["Derecha e izquierda"]}, {"kotoba": "右足", "reading": "みぎ.あし", "meanings": ["Pie derecho"]}], "radicals": ["口", "一", "ノ"], "strokes": 5, "lvl": "小学校の１年", "id": 1}], "id": 0}
+{
+    "name": "小学校の１年",
+    "kanjis": [
+        {
+            "kanji": "一",
+            "kunyomi": [
+                "ひと"
+            ],
+            "onyomi": [
+                "イチ",
+                "イツ"
+            ],
+            "words": [
+                {
+                    "kotoba": "一年",
+                    "reading": "いち.ねん",
+                    "meanings": [
+                        "Un año"
+                    ]
+                },
+                {
+                    "kotoba": "一ぴき",
+                    "reading": "いっ.ぴき",
+                    "meanings": [
+                        "Un animal"
+                    ]
+                }
+            ],
+            "radicals": [
+                "一"
+            ],
+            "strokes": 1,
+            "lvl": "小学校の１年",
+            "id": 0
+        },
+        {
+            "kanji": "右",
+            "kunyomi": [
+                "みぎ"
+            ],
+            "onyomi": [
+                "ウ",
+                "ユウ"
+            ],
+            "words": [
+                {
+                    "kotoba": "左右",
+                    "reading": "さ.ゆう",
+                    "meanings": [
+                        "Derecha e izquierda"
+                    ]
+                },
+                {
+                    "kotoba": "右足",
+                    "reading": "みぎ.あし",
+                    "meanings": [
+                        "Pie derecho"
+                    ]
+                }
+            ],
+            "radicals": [
+                "口",
+                "一",
+                "ノ"
+            ],
+            "strokes": 5,
+            "lvl": "小学校の１年",
+            "id": 1
+        }
+    ],
+    "id": 0
+}
