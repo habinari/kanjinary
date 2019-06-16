@@ -1,0 +1,34 @@
+{
+    "kanji": "円",
+    "kunyomi": [
+        "まる"
+    ],
+    "onyomi": [
+        "エン"
+    ],
+    "words": [
+        {
+            "kotoba": "五百円",
+            "reading": "ご.ひゃく.えん",
+            "meanings": [
+                "150 yenes."
+            ]
+        },
+        {
+            "kotoba": "円い",
+            "reading": "まる.い",
+            "meanings": [
+                "Redondo."
+            ]
+        }
+    ],
+    "radicals": [
+        "冂",
+        "一",
+        "亠",
+        "｜"
+    ],
+    "strokes": 4,
+    "lvl": "小学校の１年",
+    "id": 4
+}
