@@ -1,13 +1,13 @@
 <template>
     <div class="card">
         <div class="card-image has-text-centered">
-            <i class=""></i>
+            <font-awesome-icon v-bind:icon="iconRef" class="is-size-1 m-t-lg"/>
         </div>
-        <div class="card-content">
+        <div class="card-content m-t-lg">
             <div class="content">
                 <h4>{{title}}</h4>
                 <p>{{content}}</p>
-                <p><a href="#">{{link}}</a></p>
+                <p><a target="_blank" v-bind:href="href">{{link}}</a></p>
             </div>
         </div>
     </div>
@@ -17,12 +17,17 @@
 export default {
   name: 'icon-card',
 
+  props: {
+      title: String,
+      content: String,
+      link: String,
+      href: String,
+      iconRef: String
+  },
+
   data: function() {
     return {
       test: 'Nav icon-card!',
-      title: 'title',
-      content: 'content',
-      link: 'link'
     }
   },
 
@@ -34,4 +39,10 @@ export default {
 
 }
 </script>
+
+<style lang="sass">
+    .card
+      height: 100%
+</style>
+
 

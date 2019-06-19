@@ -1,7 +1,7 @@
 <template>
   <div id="app">
 
-    <section id="nav" class="hero is-info is-medium">
+    <section class="hero is-info is-medium">
       <!-- Hero head: will stick at the top -->
       <div class="hero-head">
         <nav class="navbar">
@@ -57,8 +57,7 @@
 
 <script>
 export default {
-  name: 'nav',
-  el: '#nav',
+  name: 'app',
 
   data: function() {
     return {
@@ -78,4 +77,5 @@ export default {
 
 <style lang="scss">
   @import '/../node_modules/bulma/bulma.sass';
+  @import '@/styles/space.scss'
 </style>
