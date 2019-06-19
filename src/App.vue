@@ -1,54 +1,57 @@
 <template>
   <div id="app">
-    <div id="nav">
 
-      <section class="hero is-info is-medium">
-        <!-- Hero head: will stick at the top -->
-        <div class="hero-head">
-          <nav class="navbar">
-            <div class="container">
-              <div class="navbar-brand">
-                <a class="navbar-item">
-                  <img src="https://bulma.io/images/bulma-type-white.png" alt="Logo">
-                </a>
-                <span class="navbar-burger burger" data-target="navbarMenuHeroA">
-                  <span></span>
-                  <span></span>
-                  <span></span>
-                </span>
-              </div>
-              <div id="navbarMenuHeroA" class="navbar-menu">
-                <div class="navbar-end">
-                  <div class="tabs">
-                    <ul>
-                      <li class="is-active"><a>Inicio</a></li>
-                      <li><a>Niveles</a></li>
-                      <li><a>Buscar</a></li>
-                    </ul>
-                  </div>
+    <section id="nav" class="hero is-info is-medium">
+      <!-- Hero head: will stick at the top -->
+      <div class="hero-head">
+        <nav class="navbar">
+          <div class="container">
+            <div class="navbar-brand">
+              <a class="navbar-item">
+                <img src="https://bulma.io/images/bulma-type-white.png" alt="Logo">
+              </a>
+              <span class="navbar-burger burger" data-target="navbarMenuHeroA">
+                <span></span>
+                <span></span>
+                <span></span>
+              </span>
+            </div>
+            <div id="navbarMenuHeroA" class="navbar-menu">
+              <div class="navbar-end">
+                <div class="tabs">
+                  <ul>
+                    <li v-bind:class="{'is-active': current == 'home'}">
+                      <router-link to="/">Inicio</router-link>
+                    </li>
+                    <li v-bind:class="{'is-active': current == 'level'}">
+                      <router-link to="/lvl">Niveles</router-link>
+                    </li>
+                    <li v-bind:class="{'is-active': current == 'search'}">
+                      <router-link to="/search">Buscar</router-link>
+                    </li>
+                  </ul>
                 </div>
               </div>
             </div>
-          </nav>
-        </div>
-      
-        <!-- Hero content: will be in the middle -->
-        <div class="hero-body">
-          <div class="container has-text-centered">
-            <h1 class="title">
-              Bienvenido a Kanjinary
-            </h1>
-            <h2 class="subtitle">
-              Kanjinary es una base de datos de kanjis hecha por y para estudiantes de japonés.
-            </h2>
           </div>
+        </nav>
+      </div>
+    
+      <!-- Hero content: will be in the middle -->
+      <div class="hero-body">
+        <div class="container has-text-centered">
+          <h1 class="title">
+            Bienvenido a Kanjinary
+          </h1>
+          <h2 class="subtitle">
+            Kanjinary es una base de datos de kanjis hecha por y para estudiantes de japonés.
+          </h2>
         </div>
-      </section>
+      </div>
+    </section>
 
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </div>
     <router-view/>
+
   </div>
 </template>
 
@@ -56,11 +59,19 @@
 export default {
   name: 'nav',
   el: '#nav',
+
   data: function() {
     return {
       test: 'Nav test!'
     }
+  },
+
+  computed: {
+    current: function() {
+      return this.$route.name
+    }
   }
+
 }
 </script>
 
