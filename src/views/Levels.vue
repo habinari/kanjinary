@@ -11,8 +11,8 @@
                 <div class="columns is-centered">
                     <div v-for="kanji in lvl.kanjis" :key="kanji" class="column is-1">
                         <div class="card">
-                            <div class="card-content">
-                              <p class="title">
+                            <div class="card-content has-text-centered">
+                              <p class="title has-text-centered">
                                 {{kanji}}
                               </p>
                             </div>

@@ -25,6 +25,10 @@ try:
 except:
     os.mkdir(kanji_directory)
 
+# Save all kanji
+with io.open(kanji_directory + 'all.json', 'w', encoding='utf8') as outfile:
+    json.dump(all_kanjis, outfile, indent=4, ensure_ascii=False)
+
 # Save all kanji as individual json file
 index = 0
 for kanji in all_kanjis:
