@@ -39,13 +39,13 @@ for kanji in all_kanjis:
     level_already_crated = False
     for level in all_levels:
         if level['name'] == kanji['lvl']:
-            level['kanjis'].append(kanji)
+            level['kanjis'].append(kanji['kanji'])
             level_already_crated = True
     if not level_already_crated:
         level = {}
         level['name'] = kanji['lvl']
         level['kanjis'] = []
-        level['kanjis'].append(kanji)
+        level['kanjis'].append(kanji['kanji'])
         all_levels.append(level)
 
 # Create a directory for levels if not exists
@@ -55,7 +55,11 @@ try:
 except:
     os.mkdir(lvl_directory)
 
-# Write all levels
+# Write all lvls
+with io.open(lvl_directory + 'all.json', 'w', encoding='utf8') as outfile:
+    json.dump(all_levels, outfile, indent=4, ensure_ascii=False)
+
+# Write all levels individually
 index = 0
 for level in all_levels:
     with io.open(lvl_directory + level['name'] + '.json', 'w', encoding='utf8') as outfile:

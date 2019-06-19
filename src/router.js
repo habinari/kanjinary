@@ -8,7 +8,7 @@ Vue.use(Router)
 // View imports
 import Home from './views/Home.vue'
 import Kanji from './views/Kanji.vue'
-import Level from './views/Level.vue'
+import Level from './views/Levels.vue'
 import Search from './views/Search.vue'
 
 
