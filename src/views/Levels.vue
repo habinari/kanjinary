@@ -2,24 +2,7 @@
     <div id="levels">
 
         <div v-for="lvl in levels" :key="lvl.name">
-            <section class="container">
-                <div class="columns">
-                    <div class="column has-text-centered m-t-lg">
-                        <h1 class="is-size-2">{{lvl.name}}</h1>
-                    </div>
-                </div>
-                <div class="columns is-centered">
-                    <div v-for="kanji in lvl.kanjis" :key="kanji" class="column is-1">
-                        <div class="card">
-                            <div class="card-content has-text-centered">
-                              <p class="title has-text-centered">
-                                {{kanji}}
-                              </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
+            <Level v-bind:name="lvl.name" v-bind:kanjis="lvl.kanjis" />
         </div>
     </div>
 </template>
@@ -28,8 +11,14 @@
 
 const LVL_PATH = 'https://www.kabi404.dev/Kanjinary/static/lvl/all.json'
 
+import Level from '@/components/Level.vue'
+
 export default {
     name: 'Levels',
+
+    components: {
+        Level
+    },
 
     data: function() {
         return {
@@ -43,7 +32,7 @@ export default {
         }
     },
 
-    mounted: function() {
+     beforeMount: function() {
         this.loadLevels()
     },
 
