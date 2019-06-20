@@ -39,8 +39,8 @@ export default {
     return {
       cards: [
         {
-          title: 'Sobre nosotros',
-          content: 'Somos un grupo de estudiantes de japonés de la Escuela de Idiomas de Málaga con nociones de programación y/o diseño gráfico. Decidimos hacer un proyecto para facilitar tanto a nosotros como al resto de estudiantes el estudio de kanjis.',
+          title: 'Sobre mi',
+          content: 'Soy un Ingeniero de Software y estudiante de japonés. Este proyecto está hecho para facilitar el estudio de kanjis mediante información y recursos.',
           link: 'Saber más',
           href: 'https://github.com/kabi404',
           icon: 'coffee'
