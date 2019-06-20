@@ -1,12 +1,12 @@
 <template>
     <section class="container">
-        <div class="columns">
+        <div class="columns is-mobile">
             <div class="column has-text-centered m-t-xl">
-                <h1 class="is-size-3 title">{{name}}</h1>
+                <h1 class="is-narrow title">{{name}}</h1>
             </div>
         </div>
-        <div class="columns is-centered">
-            <div v-for="kanji in kanjis" :key="kanji" class="column is-1">
+        <div class="columns is-centered is-multiline is-mobile">
+            <div v-for="kanji in kanjis" :key="kanji" class="column is-narrow-mobile is-1-tablet">
                 <router-link v-bind:to="`/kanji/${kanji}`">
                     <p class="is-size-3 has-text-centered has-text-dark">
                       {{kanji}}

@@ -4,9 +4,40 @@
     "onyomi": [
         "オウ"
     ],
-    "words": [],
-    "radicals": [],
+    "words": [
+        {
+            "kotoba": "王様",
+            "reading": "おう.さま",
+            "meanings": [
+                "Rey"
+            ]
+        },
+        {
+            "kotoba": "国王",
+            "reading": "こく.おう",
+            "meanings": [
+                "Rey"
+            ]
+        },
+        {
+            "kotoba": "王子",
+            "reading": "おう.じ",
+            "meanings": [
+                "Príncipe"
+            ]
+        },
+        {
+            "kotoba": "女王",
+            "reading": "じょ.おう",
+            "meanings": [
+                "Reina"
+            ]
+        }
+    ],
+    "radicals": [
+        "王"
+    ],
     "strokes": 4,
     "lvl": "小学校の１年",
-    "id": 5
+    "id": 4
 }

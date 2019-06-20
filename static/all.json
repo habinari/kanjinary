@@ -62,30 +62,6 @@
         "strokes" : 8,
         "lvl" : "小学校の１年"
     },{
-        "kanji" : "雨",
-        "kunyomi" : ["あめ", "あま"],
-        "onyomi" : ["ウ"],
-        "words" : [
-            {
-                "kotoba" : "雨天",
-                "reading" : "う.てん",
-                "meanings" : ["Clima lluvioso"]
-            },
-            {
-                "kotoba" : "大雨",
-                "reading" : "おお.あめ",
-                "meanings" : ["Gran lluvia"]
-            },
-            {
-                "kotoba" : "雨",
-                "reading" : "あめ",
-                "meanings" : ["Lluvia"]
-            }
-        ],
-        "radicals" : ["雨"],
-        "strokes" : 8,
-        "lvl" : "小学校の１年"
-    },{
         "kanji" : "円",
         "kunyomi" : ["まる"],
         "onyomi" : ["エン"],
@@ -109,9 +85,28 @@
         "kunyomi" : [],
         "onyomi" : ["オウ"],
         "words" : [
-            
+            {
+                "kotoba": "王様",
+                "reading": "おう.さま",
+                "meanings": ["Rey"]
+            },
+            {
+                "kotoba": "国王",
+                "reading": "こく.おう",
+                "meanings": ["Rey"]
+            },
+            {
+                "kotoba": "王子",
+                "reading": "おう.じ",
+                "meanings": ["Príncipe"]
+            },
+            {
+                "kotoba": "女王",
+                "reading": "じょ.おう",
+                "meanings": ["Reina"]
+            }
         ],
-        "radicals" : [],
+        "radicals" : ["王"],
         "strokes" : 4,
         "lvl" : "小学校の１年"
     },{
