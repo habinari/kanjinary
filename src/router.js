@@ -7,8 +7,8 @@ Vue.use(Router)
 
 // View imports
 import Home from './views/Home.vue'
-import Kanji from './views/Kanji.vue'
-import Level from './views/Levels.vue'
+import Kanjis from './views/Kanjis.vue'
+import Levels from './views/Levels.vue'
 import Search from './views/Search.vue'
 
 
@@ -20,14 +20,14 @@ export default new Router({
       component: Home
     },
     {
-      path: '/kanji',
-      name: 'kanji',
-      component: Kanji
+      path: '/kanji/:kanji',
+      name: 'kanjis',
+      component: Kanjis
     },
     {
       path: '/lvl',
-      name: 'level',
-      component: Level
+      name: 'levels',
+      component: Levels
     },
     {
       path: '/search',
