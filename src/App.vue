@@ -1,7 +1,7 @@
 <template>
   <div id="app">
 
-    <section class="hero is-info is-medium">
+    <section class="hero is-info" v-bind:class="{'is-medium': current == 'home'}">
       <!-- Hero head: will stick at the top -->
       <div class="hero-head">
         <nav class="navbar">
@@ -23,7 +23,7 @@
                     <li v-bind:class="{'is-active': current == 'home'}">
                       <router-link to="/">Inicio</router-link>
                     </li>
-                    <li v-bind:class="{'is-active': current == 'level'}">
+                    <li v-bind:class="{'is-active': current == 'levels'}">
                       <router-link to="/lvl">Niveles</router-link>
                     </li>
                     <li v-bind:class="{'is-active': current == 'search'}">
@@ -40,12 +40,18 @@
       <!-- Hero content: will be in the middle -->
       <div class="hero-body">
         <div class="container has-text-centered">
-          <h1 class="title">
-            Bienvenido a Kanjinary
+          <h1 class="title is-size-2">
+            {{title}}
           </h1>
-          <h2 class="subtitle">
-            Kanjinary es una base de datos de kanjis hecha por y para estudiantes de japonés.
+          <h2 v-if="(current == 'home')" class="subtitle">
+            {{welcomeMsg}}
           </h2>
+          <router-link 
+              to="/lvl" 
+              v-if="(current == 'home')" 
+              class="button is-info is-inverted is-outlined">
+                {{startMsg}}
+          </router-link>
         </div>
       </div>
     </section>
@@ -69,7 +75,11 @@ export default {
 
   data: function() {
     return {
-      test: 'Nav test!'
+      test: 'Nav test!',
+
+      title: '漢字ナリ',
+      welcomeMsg: 'Bienvenido a Kanjinary, una base de datos de kanjis hecha por y para estudiantes de japonés.',
+      startMsg: 'Comenzar por niveles'
     }
   },
 

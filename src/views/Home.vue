@@ -47,14 +47,14 @@ export default {
         },
         {
           title: 'Software libre',
-          content: 'El proyecto está protegido bajo una licencia de software MIT. Cualquier persona puede colaborar en el proyecto.',
+          content: 'El proyecto está protegido bajo la licencia de software libre MIT. Cualquier persona puede colaborar en el proyecto.',
           link: 'Ver licencia',
           href: 'https://github.com/kabi404/Kanjinary/blob/master/LICENSE',
           icon: 'unlock-alt'
         },
         {
           title: 'El proyecto',
-          content: 'Todo el código y datos del proyecto está disponible en GitHub.',
+          content: 'Todo el código y datos del proyecto está disponible en GitHub. Para participar tan sólo haz alguna modificación del código interesante o añade kanjis que aún no estén incluidos.',
           link: 'Ir al proyecto',
           href: 'https://github.com/kabi404/Kanjinary',
           icon: 'users'
