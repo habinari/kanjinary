@@ -24,7 +24,7 @@
                       <router-link to="/">Inicio</router-link>
                     </li>
                     <li v-bind:class="{'is-active': current == 'levels'}">
-                      <router-link to="/lvl">Niveles</router-link>
+                      <router-link to="/levels/all">Niveles</router-link>
                     </li>
                     <li v-bind:class="{'is-active': current == 'search'}">
                       <router-link to="/search">Buscar</router-link>
@@ -47,7 +47,7 @@
             {{welcomeMsg}}
           </h2>
           <router-link 
-              to="/lvl" 
+              to="/levels/小学校の１年"
               v-if="(current == 'home')" 
               class="button is-info is-inverted is-outlined">
                 {{startMsg}}
@@ -79,7 +79,7 @@ export default {
 
       title: '漢字ナリ',
       welcomeMsg: 'Bienvenido a Kanjinary, una base de datos de kanjis hecha por y para estudiantes de japonés.',
-      startMsg: 'Comenzar por niveles'
+      startMsg: 'Comenzar por el primer nivel'
     }
   },
 

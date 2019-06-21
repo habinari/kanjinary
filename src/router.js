@@ -25,7 +25,7 @@ export default new Router({
       component: Kanjis
     },
     {
-      path: '/lvl',
+      path: '/levels/:lvl',
       name: 'levels',
       component: Levels
     },
