@@ -1,10 +1,8 @@
 <template>
   <div id="app">
 
-    <section class="hero is-info" v-bind:class="{'is-medium': current == 'home'}">
-      <!-- Hero head: will stick at the top -->
-      <div class="hero-head">
-        <nav class="navbar">
+    <!-- Hero head: will stick at the top -->
+        <nav class="navbar is-info is-fixed-top">
           <div class="container">
             <div class="navbar-brand">
               <a class="navbar-item">
@@ -18,16 +16,16 @@
             </div>
             <div id="navbarMenuHeroA" class="navbar-menu">
               <div class="navbar-end">
-                <div class="tabs">
+                <div class="tabs is-right">
                   <ul>
                     <li v-bind:class="{'is-active': current == 'home'}">
-                      <router-link to="/">Inicio</router-link>
+                      <router-link class="has-text-white" to="/">Inicio</router-link>
                     </li>
                     <li v-bind:class="{'is-active': current == 'levels'}">
-                      <router-link to="/levels/all">Niveles</router-link>
+                      <router-link class="has-text-white" to="/levels/all">Niveles</router-link>
                     </li>
                     <li v-bind:class="{'is-active': current == 'search'}">
-                      <router-link to="/search">Buscar</router-link>
+                      <router-link class="has-text-white" to="/search">Buscar</router-link>
                     </li>
                   </ul>
                 </div>
@@ -35,8 +33,8 @@
             </div>
           </div>
         </nav>
-      </div>
-    
+
+    <section class="hero is-info" v-bind:class="{'is-medium': current == 'home'}">
       <!-- Hero content: will be in the middle -->
       <div class="hero-body">
         <div class="container has-text-centered">
@@ -93,7 +91,11 @@ export default {
 </script>
 
 
-<style lang="scss">
-  @import '/../node_modules/bulma/bulma.sass';
+<style lang="sass">
+  @import '/../node_modules/bulma/bulma.sass'
   @import '@/styles/space.scss'
+
+  .tabs
+    ul
+      border-bottom-color: $info
 </style>
