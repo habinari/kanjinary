@@ -1,6 +1,5 @@
 <template>
     <div id="levels">
-
         <div v-for="lvl in levels" :key="lvl.name">
             <Level v-bind:name="lvl.name" v-bind:kanjis="lvl.kanjis" />
         </div>

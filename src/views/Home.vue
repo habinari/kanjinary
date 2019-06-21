@@ -4,7 +4,7 @@
     <section class="container">
       <div class="columns">
         <div class="column has-text-centered m-t-lg m-b-lg">
-          <h1 class="is-size-2">Sobre el proyecto</h1>
+          <h1 class="is-size-2">El proyecto Kanjinary</h1>
         </div>
       </div>
 
