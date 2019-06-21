@@ -1,5 +1,5 @@
 {
-    "kanji": "円",
+    "ideogram": "円",
     "kunyomi": [
         "まる.い"
     ],
@@ -10,16 +10,20 @@
         {
             "kotoba": "五百円",
             "reading": "ご.ひゃく.えん",
-            "meanings": [
-                "150 yenes."
-            ]
+            "meanings": {
+                "es": [
+                    "150 yenes."
+                ]
+            }
         },
         {
             "kotoba": "円い",
             "reading": "まる.い",
-            "meanings": [
-                "Redondo."
-            ]
+            "meanings": {
+                "es": [
+                    "Redondo."
+                ]
+            }
         }
     ],
     "radicals": [

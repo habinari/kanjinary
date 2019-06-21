@@ -1,5 +1,5 @@
 {
-    "kanji": "雨",
+    "ideogram": "雨",
     "kunyomi": [
         "あめ",
         "あま"
@@ -11,23 +11,29 @@
         {
             "kotoba": "雨天",
             "reading": "う.てん",
-            "meanings": [
-                "Clima lluvioso"
-            ]
+            "meanings": {
+                "es": [
+                    "Clima lluvioso"
+                ]
+            }
         },
         {
             "kotoba": "大雨",
             "reading": "おお.あめ",
-            "meanings": [
-                "Gran lluvia"
-            ]
+            "meanings": {
+                "es": [
+                    "Gran lluvia"
+                ]
+            }
         },
         {
             "kotoba": "雨",
             "reading": "あめ",
-            "meanings": [
-                "Lluvia"
-            ]
+            "meanings": {
+                "es": [
+                    "Lluvia"
+                ]
+            }
         }
     ],
     "radicals": [

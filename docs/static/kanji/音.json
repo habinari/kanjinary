@@ -1,5 +1,5 @@
 {
-    "kanji": "音",
+    "ideogram": "音",
     "kunyomi": [
         "おと",
         "ね"
@@ -11,30 +11,38 @@
         {
             "kotoba": "音楽",
             "reading": "おん.がく",
-            "meanings": [
-                "Música"
-            ]
+            "meanings": {
+                "es": [
+                    "Música"
+                ]
+            }
         },
         {
             "kotoba": "音読",
             "reading": "おん.どく",
-            "meanings": [
-                "Leer en voz alta"
-            ]
+            "meanings": {
+                "es": [
+                    "Leer en voz alta"
+                ]
+            }
         },
         {
             "kotoba": "音色",
             "reading": "ね.いろ",
-            "meanings": [
-                "Tonalidad de color"
-            ]
+            "meanings": {
+                "es": [
+                    "Tonalidad de color"
+                ]
+            }
         },
         {
             "kotoba": "音",
             "reading": "おと",
-            "meanings": [
-                "Sonido"
-            ]
+            "meanings": {
+                "es": [
+                    "Sonido"
+                ]
+            }
         }
     ],
     "radicals": [

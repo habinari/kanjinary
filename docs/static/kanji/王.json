@@ -1,5 +1,5 @@
 {
-    "kanji": "王",
+    "ideogram": "王",
     "kunyomi": [],
     "onyomi": [
         "オウ"
@@ -8,30 +8,38 @@
         {
             "kotoba": "王様",
             "reading": "おう.さま",
-            "meanings": [
-                "Rey"
-            ]
+            "meanings": {
+                "es": [
+                    "Rey"
+                ]
+            }
         },
         {
             "kotoba": "国王",
             "reading": "こく.おう",
-            "meanings": [
-                "Rey"
-            ]
+            "meanings": {
+                "es": [
+                    "Rey"
+                ]
+            }
         },
         {
             "kotoba": "王子",
             "reading": "おう.じ",
-            "meanings": [
-                "Príncipe"
-            ]
+            "meanings": {
+                "es": [
+                    "Príncipe"
+                ]
+            }
         },
         {
             "kotoba": "女王",
             "reading": "じょ.おう",
-            "meanings": [
-                "Reina"
-            ]
+            "meanings": {
+                "es": [
+                    "Reina"
+                ]
+            }
         }
     ],
     "radicals": [

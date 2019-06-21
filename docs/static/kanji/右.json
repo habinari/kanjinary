@@ -1,5 +1,5 @@
 {
-    "kanji": "右",
+    "ideogram": "右",
     "kunyomi": [
         "みぎ"
     ],
@@ -11,16 +11,20 @@
         {
             "kotoba": "左右",
             "reading": "さ.ゆう",
-            "meanings": [
-                "Derecha e izquierda"
-            ]
+            "meanings": {
+                "es": [
+                    "Derecha e izquierda"
+                ]
+            }
         },
         {
             "kotoba": "右足",
             "reading": "みぎ.あし",
-            "meanings": [
-                "Pie derecho"
-            ]
+            "meanings": {
+                "es": [
+                    "Pie derecho"
+                ]
+            }
         }
     ],
     "radicals": [

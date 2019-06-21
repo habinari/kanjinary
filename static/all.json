@@ -1,198 +1,248 @@
 [
     {
-        "kanji" : "一",
-        "kunyomi" : ["ひと"],
-        "onyomi" : ["イチ", "イツ"],
-        "words" : [
+        "ideogram": "一",
+        "kunyomi": ["ひと"],
+        "onyomi": ["イチ", "イツ"],
+        "words": [
             {
-                "kotoba" : "一年",
-                "reading" : "いち.ねん",
-                "meanings" : ["Un año"]
+                "kotoba": "一年",
+                "reading": "いち.ねん",
+                "meanings": {
+                    "es": ["Un año"]
+                }
             },
             {
-                "kotoba" : "一ぴき",
-                "reading" : "いっ.ぴき",
-                "meanings" : ["Un animal"]
+                "kotoba": "一ぴき",
+                "reading": "いっ.ぴき",
+                "meanings": {
+                    "es": ["Un animal"]
+                }
             }
         ],
-        "radicals" : ["一"],
-        "strokes" : 1,
-        "lvl" : "小学校の１年"
+        "radicals": ["一"],
+        "strokes": 1,
+        "lvl": "小学校の１年"
     },{
-        "kanji" : "右",
-        "kunyomi" : ["みぎ"],
-        "onyomi" : ["ウ", "ユウ"],
-        "words" : [
+        "ideogram": "右",
+        "kunyomi": ["みぎ"],
+        "onyomi": ["ウ", "ユウ"],
+        "words": [
             {
                 "kotoba" : "左右",
                 "reading" : "さ.ゆう",
-                "meanings" : ["Derecha e izquierda"]
+                "meanings" : {
+                    "es": ["Derecha e izquierda"]
+                }
             },
             {
                 "kotoba" : "右足",
                 "reading" : "みぎ.あし",
-                "meanings" : ["Pie derecho"]
+                "meanings" : {
+                    "es": ["Pie derecho"]
+                }
             }
         ],
         "radicals" : ["口", "一", "ノ"],
         "strokes" : 5,
         "lvl" : "小学校の１年"
     },{
-        "kanji" : "雨",
+        "ideogram" : "雨",
         "kunyomi" : ["あめ", "あま"],
         "onyomi" : ["ウ"],
         "words" : [
             {
                 "kotoba" : "雨天",
                 "reading" : "う.てん",
-                "meanings" : ["Clima lluvioso"]
+                "meanings" : {
+                    "es": ["Clima lluvioso"]
+                }
             },
             {
                 "kotoba" : "大雨",
                 "reading" : "おお.あめ",
-                "meanings" : ["Gran lluvia"]
+                "meanings" : {
+                    "es": ["Gran lluvia"]
+                }
             },
             {
                 "kotoba" : "雨",
                 "reading" : "あめ",
-                "meanings" : ["Lluvia"]
+                "meanings" : {
+                    "es": ["Lluvia"]
+                }
             }
         ],
         "radicals" : ["雨"],
         "strokes" : 8,
         "lvl" : "小学校の１年"
     },{
-        "kanji" : "円",
+        "ideogram" : "円",
         "kunyomi" : ["まる.い"],
         "onyomi" : ["エン"],
         "words" : [
             {
                 "kotoba" : "五百円",
                 "reading" : "ご.ひゃく.えん",
-                "meanings" : ["150 yenes."]
+                "meanings" : {
+                    "es": ["150 yenes."]
+                }
             },
             {
                 "kotoba" : "円い",
                 "reading" : "まる.い",
-                "meanings" : ["Redondo."]
+                "meanings" : {
+                    "es": ["Redondo."]
+                }
             }
         ],
         "radicals" : ["冂", "一", "亠", "｜"],
         "strokes" : 4,
         "lvl" : "小学校の１年"
     },{
-        "kanji" : "王",
+        "ideogram" : "王",
         "kunyomi" : [],
         "onyomi" : ["オウ"],
         "words" : [
             {
                 "kotoba": "王様",
                 "reading": "おう.さま",
-                "meanings": ["Rey"]
+                "meanings": {
+                    "es": ["Rey"]
+                }
             },
             {
                 "kotoba": "国王",
                 "reading": "こく.おう",
-                "meanings": ["Rey"]
+                "meanings": {
+                    "es": ["Rey"]
+                }
             },
             {
                 "kotoba": "王子",
                 "reading": "おう.じ",
-                "meanings": ["Príncipe"]
+                "meanings": {
+                    "es": ["Príncipe"]
+                }
             },
             {
                 "kotoba": "女王",
                 "reading": "じょ.おう",
-                "meanings": ["Reina"]
+                "meanings": {
+                    "es": ["Reina"]
+                }
             }
         ],
         "radicals" : ["王"],
         "strokes" : 4,
         "lvl" : "小学校の１年"
     },{
-        "kanji" : "音",
+        "ideogram" : "音",
         "kunyomi" : ["おと", "ね"],
         "onyomi" : ["オン"],
         "words" : [
             {
                 "kotoba": "音楽",
                 "reading": "おん.がく",
-                "meanings": ["Música"]
+                "meanings": {
+                    "es": ["Música"]
+                }
             },
             {
                 "kotoba": "音読",
                 "reading": "おん.どく",
-                "meanings": ["Leer en voz alta"]
+                "meanings": {
+                    "es": ["Leer en voz alta"]
+                }
             },
             {
                 "kotoba": "音色",
                 "reading": "ね.いろ",
-                "meanings": ["Tonalidad de color"]
+                "meanings": {
+                    "es": ["Tonalidad de color"]
+                }
             },
             {
                 "kotoba": "音",
                 "reading": "おと",
-                "meanings": ["Sonido"]
+                "meanings": {
+                    "es": ["Sonido"]
+                }
             }
         ],
         "radicals" : ["音", "立", "日"],
         "strokes" : 9,
         "lvl" : "小学校の１年"
     },{
-        "kanji" : "下",
+        "ideogram" : "下",
         "kunyomi" : ["した", "しも", "もと", "さ.げる", "さ.がる", "くだ.る", "くだ.す", "くだ.さる", "お.ろす", "お.りる"],
         "onyomi" : ["カ", "ゲ"],
         "words" : [
             {
                 "kotoba": "下",
                 "reading": "した",
-                "meanings": ["Abajo"]
+                "meanings": {
+                    "es": ["Abajo"]
+                }
             },
             {
                 "kotoba": "地下",
                 "reading": "ち.か",
-                "meanings": ["Bajo tierra"]
+                "meanings": {
+                    "es": ["Bajo tierra"]
+                }
             },
             {
                 "kotoba": "地下鉄",
                 "reading": "ち.か.てつ",
-                "meanings": ["Metro (Vehículo)"]
+                "meanings": {
+                    "es": ["Metro (Vehículo)"]
+                }
             },
             {
                 "kotoba": "上下",
                 "reading": "じょう.げ",
-                "meanings": ["Arriba y abajo"]
+                "meanings": {
+                    "es": ["Arriba y abajo"]
+                }
             }
         ],
         "radicals" : ["一", "｜", "卜"],
         "strokes" : 3,
         "lvl" : "小学校の１年"
     },{
-        "kanji" : "引",
+        "ideogram" : "引",
         "kunyomi" : ["ひ"],
         "onyomi" : ["いん"],
         "words" : [
             {
                 "kotoba" : "引く",
                 "reading" : "ひ.く",
-                "meanings" : ["Tirar de algo"]
+                "meanings" : {
+                    "es": ["Tirar de algo"]
+                }
             },
             {
                 "kotoba": "引ける",
                 "reading": "ひ.ける",
-                "meanings": [
-                    "*******************"
-                ]
+                "meanings": {
+                    "es": [
+                        "*******************"
+                    ]
+                }
             },
             {
                 "kotoba" : "引用",
                 "reading" : "いん.よう",
-                "meanings" : ["Cita (escrita)"]
+                "meanings" : {
+                    "es": ["Cita (escrita)"]
+                }
             },
             {
                 "kotoba" : "引力",
                 "reading" : "いん.りょく",
-                "meanings" : ["Fuerza gravitatoria"]
+                "meanings" : {
+                    "es": ["Fuerza gravitatoria"]
+                }
             }
         ],
         "radicals" : ["弓", "｜"],

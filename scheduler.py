@@ -29,13 +29,13 @@ except:
 all_kanji_references = []
 with io.open(kanji_directory + 'all.json', 'w', encoding='utf8') as outfile:
     for kanji in all_kanjis:
-        all_kanji_references.append(kanji['kanji'])
+        all_kanji_references.append(kanji['ideogram'])
     json.dump(all_kanji_references, outfile, indent=4, ensure_ascii=False)
 
 # Save all kanji as individual json file
 index = 0
 for kanji in all_kanjis:
-    with io.open(kanji_directory + kanji['kanji'] + '.json', 'w', encoding='utf8') as outfile:
+    with io.open(kanji_directory + kanji['ideogram'] + '.json', 'w', encoding='utf8') as outfile:
         kanji['id'] = index
         index += 1
         json.dump(kanji, outfile, indent=4, ensure_ascii=False)
@@ -46,13 +46,13 @@ for kanji in all_kanjis:
     level_already_crated = False
     for level in all_levels:
         if level['name'] == kanji['lvl']:
-            level['kanjis'].append(kanji['kanji'])
+            level['kanjis'].append(kanji['ideogram'])
             level_already_crated = True
     if not level_already_crated:
         level = {}
         level['name'] = kanji['lvl']
         level['kanjis'] = []
-        level['kanjis'].append(kanji['kanji'])
+        level['kanjis'].append(kanji['ideogram'])
         all_levels.append(level)
 
 # Create a directory for levels if not exists

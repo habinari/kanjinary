@@ -1,5 +1,5 @@
 {
-    "kanji": "下",
+    "ideogram": "下",
     "kunyomi": [
         "した",
         "しも",
@@ -20,30 +20,38 @@
         {
             "kotoba": "下",
             "reading": "した",
-            "meanings": [
-                "Abajo"
-            ]
+            "meanings": {
+                "es": [
+                    "Abajo"
+                ]
+            }
         },
         {
             "kotoba": "地下",
             "reading": "ち.か",
-            "meanings": [
-                "Bajo tierra"
-            ]
+            "meanings": {
+                "es": [
+                    "Bajo tierra"
+                ]
+            }
         },
         {
             "kotoba": "地下鉄",
             "reading": "ち.か.てつ",
-            "meanings": [
-                "Metro (Vehículo)"
-            ]
+            "meanings": {
+                "es": [
+                    "Metro (Vehículo)"
+                ]
+            }
         },
         {
             "kotoba": "上下",
             "reading": "じょう.げ",
-            "meanings": [
-                "Arriba y abajo"
-            ]
+            "meanings": {
+                "es": [
+                    "Arriba y abajo"
+                ]
+            }
         }
     ],
     "radicals": [

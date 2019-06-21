@@ -1,5 +1,5 @@
 {
-    "kanji": "一",
+    "ideogram": "一",
     "kunyomi": [
         "ひと"
     ],
@@ -11,16 +11,20 @@
         {
             "kotoba": "一年",
             "reading": "いち.ねん",
-            "meanings": [
-                "Un año"
-            ]
+            "meanings": {
+                "es": [
+                    "Un año"
+                ]
+            }
         },
         {
             "kotoba": "一ぴき",
             "reading": "いっ.ぴき",
-            "meanings": [
-                "Un animal"
-            ]
+            "meanings": {
+                "es": [
+                    "Un animal"
+                ]
+            }
         }
     ],
     "radicals": [
