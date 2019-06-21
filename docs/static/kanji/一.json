@@ -27,9 +27,10 @@
             }
         }
     ],
-    "radicals": [
+    "parts": [
         "一"
     ],
+    "radical": "一",
     "strokes": 1,
     "lvl": "小学校の１年",
     "id": 0

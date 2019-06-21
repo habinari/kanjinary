@@ -19,7 +19,8 @@
                 }
             }
         ],
-        "radicals": ["一"],
+        "parts": ["一"],
+        "radical": "一",
         "strokes": 1,
         "lvl": "小学校の１年"
     },{
@@ -42,7 +43,8 @@
                 }
             }
         ],
-        "radicals" : ["口", "一", "ノ"],
+        "parts": ["口", "一", "ノ"],
+        "radical" : "口",
         "strokes" : 5,
         "lvl" : "小学校の１年"
     },{
@@ -72,7 +74,8 @@
                 }
             }
         ],
-        "radicals" : ["雨"],
+        "parts": ["雨"],
+        "radical" : "雨",
         "strokes" : 8,
         "lvl" : "小学校の１年"
     },{
@@ -95,7 +98,8 @@
                 }
             }
         ],
-        "radicals" : ["冂", "一", "亠", "｜"],
+        "parts": ["冂", "一", "亠", "｜"],
+        "radical" : "冂",
         "strokes" : 4,
         "lvl" : "小学校の１年"
     },{
@@ -132,7 +136,8 @@
                 }
             }
         ],
-        "radicals" : ["王"],
+        "parts": ["王"],
+        "radical" : "王",
         "strokes" : 4,
         "lvl" : "小学校の１年"
     },{
@@ -169,7 +174,8 @@
                 }
             }
         ],
-        "radicals" : ["音", "立", "日"],
+        "parts": ["音", "立", "日"],
+        "radical" : "音",
         "strokes" : 9,
         "lvl" : "小学校の１年"
     },{
@@ -206,9 +212,48 @@
                 }
             }
         ],
-        "radicals" : ["一", "｜", "卜"],
+        "parts": ["一", "｜", "卜"],
+        "radical" : "一",
         "strokes" : 3,
         "lvl" : "小学校の１年"
+    },{
+        "ideogram": "火",
+        "kunyomi": ["ひ"],
+        "onyomi": ["カ"],
+        "words": [
+            {
+                "kotoba": "火曜日",
+                "reading": "か.よう.び",
+                "meanings": {
+                    "es": ["Martes"]
+                }
+            },
+            {
+                "kotoba": "火山",
+                "reading": "か.ざん",
+                "meanings": {
+                    "es": ["Volcán"]
+                }
+            },
+            {
+                "kotoba": "火花",
+                "reading": "ひ.ばな",
+                "meanings": {
+                    "es": ["Chispa"]
+                }
+            },
+            {
+                "kotoba": "花火",
+                "reading": "はな.び",
+                "meanings": {
+                    "es": ["Fuegos artificiales"]
+                }
+            }
+        ],
+        "parts": ["火"],
+        "radical": "火",
+        "strokes": 4,
+        "lvl": "小学校の１年"
     },{
         "ideogram" : "引",
         "kunyomi" : ["ひ"],
@@ -245,7 +290,8 @@
                 }
             }
         ],
-        "radicals" : ["弓", "｜"],
+        "parts": ["弓", "｜"],
+        "radical" : "弓",
         "strokes" : 4,
         "lvl" : "小学校の２年"
     }

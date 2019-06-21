@@ -44,11 +44,12 @@
             }
         }
     ],
-    "radicals": [
+    "parts": [
         "弓",
         "｜"
     ],
+    "radical": "弓",
     "strokes": 4,
     "lvl": "小学校の２年",
-    "id": 7
+    "id": 8
 }

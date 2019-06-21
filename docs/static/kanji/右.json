@@ -27,11 +27,12 @@
             }
         }
     ],
-    "radicals": [
+    "parts": [
         "口",
         "一",
         "ノ"
     ],
+    "radical": "口",
     "strokes": 5,
     "lvl": "小学校の１年",
     "id": 1

@@ -2,7 +2,7 @@
     <section class="container has-text-centered m-t-lg">
         <div class="columns">
             <div class="column">
-                <h1 class="title is-size-1">{{kanji.kanji}}</h1>
+                <h1 class="title is-size-1">{{kanji.ideogram}}</h1>
             </div>
         </div>
 
@@ -30,7 +30,7 @@
 
         <div class="columns is-centered m-t-md">
             <div class="column is-2">
-                <p>Radical:</p> {{kanji.radicals[0]}}
+                <p>Radical:</p> {{kanji.radical}}
             </div>
             <div class="column is-2">
                 <p>Trazos:</p> {{kanji.strokes}}

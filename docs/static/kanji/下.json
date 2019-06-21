@@ -54,11 +54,12 @@
             }
         }
     ],
-    "radicals": [
+    "parts": [
         "一",
         "｜",
         "卜"
     ],
+    "radical": "一",
     "strokes": 3,
     "lvl": "小学校の１年",
     "id": 6

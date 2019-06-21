@@ -45,11 +45,12 @@
             }
         }
     ],
-    "radicals": [
+    "parts": [
         "音",
         "立",
         "日"
     ],
+    "radical": "音",
     "strokes": 9,
     "lvl": "小学校の１年",
     "id": 5

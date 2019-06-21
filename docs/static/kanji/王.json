@@ -42,9 +42,10 @@
             }
         }
     ],
-    "radicals": [
+    "parts": [
         "王"
     ],
+    "radical": "王",
     "strokes": 4,
     "lvl": "小学校の１年",
     "id": 4
