@@ -2,37 +2,52 @@
   <div id="app">
 
     <!-- Hero head: will stick at the top -->
-        <nav class="navbar is-info is-fixed-top">
-          <div class="container">
-            <div class="navbar-brand">
-              <a class="navbar-item">
-                <img src="https://bulma.io/images/bulma-type-white.png" alt="Logo">
-              </a>
-              <span class="navbar-burger burger" data-target="navbarMenuHeroA">
-                <span></span>
-                <span></span>
-                <span></span>
-              </span>
-            </div>
-            <div id="navbarMenuHeroA" class="navbar-menu">
-              <div class="navbar-end">
-                <div class="tabs is-right">
-                  <ul>
-                    <li v-bind:class="{'is-active': current == 'home'}">
-                      <router-link class="has-text-white" to="/">Inicio</router-link>
-                    </li>
-                    <li v-bind:class="{'is-active': current == 'levels'}">
-                      <router-link class="has-text-white" to="/levels/all">Niveles</router-link>
-                    </li>
-                    <li v-bind:class="{'is-active': current == 'search'}">
-                      <router-link class="has-text-white" to="/search">Buscar</router-link>
-                    </li>
-                  </ul>
-                </div>
+    <nav class="navbar is-info is-fixed-top" role="navigation" aria-label="main navigation">
+      <div class="navbar-brand">
+        
+        <a class="navbar-item" href="https://bulma.io">
+          <img src="https://bulma.io/images/bulma-type-white.png" width="112" height="28">
+        </a>
+
+        <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+        </a>
+      </div>
+
+      <div id="navbarBasicExample" class="navbar-menu">
+        <div class="navbar-start">
+          <router-link to="/" class="navbar-item" v-bind:class="{'is-active': current == 'home'}">
+            Inicio
+          </router-link>
+          <router-link to="/levels/all" class="navbar-item" v-bind:class="{'is-active': current == 'levels'}">
+            Niveles
+          </router-link>
+          <router-link to="/search" class="navbar-item" v-bind:class="{'is-active': current == 'search'}">
+            Buscar
+          </router-link>
+          
+        </div>
+
+        <div class="navbar-end">
+          <div class="navbar-item">
+            
+            <div class="field has-addons">
+              <div class="control">
+                <input class="input is-rounded" type="text" placeholder="Buscar">
+              </div>
+              <div class="control">
+                <a class="button is-link is-rounded">
+                  <font-awesome-icon icon="search"/>
+                </a>
               </div>
             </div>
+
           </div>
-        </nav>
+        </div>
+      </div>
+    </nav>
 
     <section class="hero is-info" v-bind:class="{'is-medium': current == 'home'}">
       <!-- Hero content: will be in the middle -->
