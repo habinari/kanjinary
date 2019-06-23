@@ -91,3 +91,25 @@ allKanjis.forEach(kanji => {
 createDirectoryIfNotExist(KUN_PATH)
 saveJsonData(KUN_PATH, 'all', allKunyomis)
 allKunyomis.forEach(yomi => saveJsonData(KUN_PATH, yomi.kanas, yomi))
+
+
+// Add all onyomis to data struct
+let allOnyomis = []
+
+allKanjis.forEach(kanji => {
+    kanji.onyomi.forEach(yomi => {
+        let on = allOnyomis.find(on => on.kanas == yomi)
+        if(on)
+            on.kanjis.push(kanji.ideogram)
+        else 
+            allOnyomis.push({
+                kanas: yomi,
+                kanjis: [kanji.ideogram]
+            })
+    })
+})
+
+// Save all kunyomis
+createDirectoryIfNotExist(ON_PATH)
+saveJsonData(ON_PATH, 'all', allOnyomis)
+allOnyomis.forEach(yomi => saveJsonData(ON_PATH, yomi.kanas, yomi))
