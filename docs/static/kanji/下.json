@@ -1,0 +1,66 @@
+{
+    "ideogram": "下",
+    "kunyomi": [
+        "した",
+        "しも",
+        "もと",
+        "さ.げる",
+        "さ.がる",
+        "くだ.る",
+        "くだ.す",
+        "くだ.さる",
+        "お.ろす",
+        "お.りる"
+    ],
+    "onyomi": [
+        "カ",
+        "ゲ"
+    ],
+    "words": [
+        {
+            "kotoba": "下",
+            "reading": "した",
+            "meanings": {
+                "es": [
+                    "Abajo"
+                ]
+            }
+        },
+        {
+            "kotoba": "地下",
+            "reading": "ち.か",
+            "meanings": {
+                "es": [
+                    "Bajo tierra"
+                ]
+            }
+        },
+        {
+            "kotoba": "地下鉄",
+            "reading": "ち.か.てつ",
+            "meanings": {
+                "es": [
+                    "Metro (Vehículo)"
+                ]
+            }
+        },
+        {
+            "kotoba": "上下",
+            "reading": "じょう.げ",
+            "meanings": {
+                "es": [
+                    "Arriba y abajo"
+                ]
+            }
+        }
+    ],
+    "parts": [
+        "一",
+        "｜",
+        "卜"
+    ],
+    "radical": "一",
+    "strokes": 3,
+    "lvl": "小学校の１年",
+    "id": 6
+}

@@ -1,0 +1,57 @@
+{
+    "ideogram": "音",
+    "kunyomi": [
+        "おと",
+        "ね"
+    ],
+    "onyomi": [
+        "オン"
+    ],
+    "words": [
+        {
+            "kotoba": "音楽",
+            "reading": "おん.がく",
+            "meanings": {
+                "es": [
+                    "Música"
+                ]
+            }
+        },
+        {
+            "kotoba": "音読",
+            "reading": "おん.どく",
+            "meanings": {
+                "es": [
+                    "Leer en voz alta"
+                ]
+            }
+        },
+        {
+            "kotoba": "音色",
+            "reading": "ね.いろ",
+            "meanings": {
+                "es": [
+                    "Tonalidad de color"
+                ]
+            }
+        },
+        {
+            "kotoba": "音",
+            "reading": "おと",
+            "meanings": {
+                "es": [
+                    "Sonido"
+                ]
+            }
+        }
+    ],
+    "parts": [
+        "音",
+        "立",
+        "日"
+    ],
+    "radical": "音",
+    "strokes": 9,
+    "lvl": "小学校の１年",
+    "id": 5
+}
