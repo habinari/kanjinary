@@ -1,5 +1,5 @@
 <template>
-    <section class="container">
+    <section class="section">
         <div class="columns is-mobile">
             <div class="column has-text-centered m-t-xl">
                 <h1 class="is-narrow title">{{name}}</h1>
