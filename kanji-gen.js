@@ -33,6 +33,8 @@ const BASE_PATH = './docs/static/'
 
 const KANJI_PATH = BASE_PATH + 'kanji/'
 const LEVEL_PATH = BASE_PATH + 'lvl/'
+const KUN_PATH = BASE_PATH + 'kunyomi/'
+const ON_PATH = BASE_PATH + 'onyomi/'
 
 /*
 ------------------------------------------------------
@@ -46,6 +48,7 @@ createDirectoryIfNotExist(BASE_PATH)
 // Save all kanji
 createDirectoryIfNotExist(KANJI_PATH)
 allKanjis.forEach(kanji => saveJsonData(KANJI_PATH, kanji.ideogram, kanji))
+
 
 // Add all lvls to data struct
 let allLevels = []
@@ -67,10 +70,24 @@ saveJsonData(LEVEL_PATH, 'all', allLevels)
 allLevels.forEach(lvl => saveJsonData(LEVEL_PATH, lvl.name, lvl))
 
 
+// Add all kunyomis to data struct
+let allKunyomis = []
 
+allKanjis.forEach(kanji => {
+    kanji.kunyomi.forEach(yomi => {
+        yomi = yomi.replace('.','')
+        let kun = allKunyomis.find(kun => kun.kanas == yomi)
+        if(kun)
+            kun.kanjis.push(kanji.ideogram)
+        else 
+            allKunyomis.push({
+                kanas: yomi,
+                kanjis: [kanji.ideogram]
+            })
+    })
+})
 
-
-
-
-
-
+// Save all kunyomis
+createDirectoryIfNotExist(KUN_PATH)
+saveJsonData(KUN_PATH, 'all', allKunyomis)
+allKunyomis.forEach(yomi => saveJsonData(KUN_PATH, yomi.kanas, yomi))
