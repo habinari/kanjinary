@@ -1,5 +1,6 @@
 <template>
-    <section class="container has-text-centered m-t-lg">
+
+    <section class="section has-text-centered m-t-lg">
         <div class="columns">
             <div class="column">
                 <h1 class="title is-size-1">{{kanji.ideogram}}</h1>
@@ -28,7 +29,7 @@
             </div>
         </div>
 
-        <div class="columns is-centered m-t-md">
+        <div class="columns is-centered m-t-md m-b-sm">
             <div class="column is-2">
                 <p>Partes</p> <span v-for="part in kanji.parts" :key="part" class="p-l-sm p-r-sm">{{part}}</span>
             </div>
