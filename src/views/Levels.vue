@@ -8,7 +8,7 @@
 
 <script>
 
-const LVL_PATH = 'https://www.kabi404.dev/Kanjinary/static/lvl/'
+const LVL_PATH = 'https://www.kabi404.dev/kanjinary/static/lvl/'
 
 import Level from '@/components/Level.vue'
 
