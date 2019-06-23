@@ -8,14 +8,14 @@
                 "kotoba": "一年",
                 "reading": "いち.ねん",
                 "meanings": {
-                    "es": ["Un año"]
+                    "es": ["un año"]
                 }
             },
             {
                 "kotoba": "一ぴき",
                 "reading": "いっ.ぴき",
                 "meanings": {
-                    "es": ["Un animal"]
+                    "es": ["un animal"]
                 }
             }
         ],
@@ -32,14 +32,14 @@
                 "kotoba" : "左右",
                 "reading" : "さ.ゆう",
                 "meanings" : {
-                    "es": ["Derecha e izquierda"]
+                    "es": ["derecha e izquierda"]
                 }
             },
             {
                 "kotoba" : "右足",
                 "reading" : "みぎ.あし",
                 "meanings" : {
-                    "es": ["Pie derecho"]
+                    "es": ["pie derecho"]
                 }
             }
         ],
@@ -56,21 +56,21 @@
                 "kotoba" : "雨天",
                 "reading" : "う.てん",
                 "meanings" : {
-                    "es": ["Clima lluvioso"]
+                    "es": ["clima lluvioso"]
                 }
             },
             {
                 "kotoba" : "大雨",
                 "reading" : "おお.あめ",
                 "meanings" : {
-                    "es": ["Gran lluvia"]
+                    "es": ["gran lluvia"]
                 }
             },
             {
                 "kotoba" : "雨",
                 "reading" : "あめ",
                 "meanings" : {
-                    "es": ["Lluvia"]
+                    "es": ["lluvia"]
                 }
             }
         ],
@@ -94,7 +94,7 @@
                 "kotoba" : "円い",
                 "reading" : "まる.い",
                 "meanings" : {
-                    "es": ["Redondo."]
+                    "es": ["redondo."]
                 }
             }
         ],
@@ -111,28 +111,28 @@
                 "kotoba": "王様",
                 "reading": "おう.さま",
                 "meanings": {
-                    "es": ["Rey"]
+                    "es": ["rey"]
                 }
             },
             {
                 "kotoba": "国王",
                 "reading": "こく.おう",
                 "meanings": {
-                    "es": ["Rey"]
+                    "es": ["rey"]
                 }
             },
             {
                 "kotoba": "王子",
                 "reading": "おう.じ",
                 "meanings": {
-                    "es": ["Príncipe"]
+                    "es": ["príncipe"]
                 }
             },
             {
                 "kotoba": "女王",
                 "reading": "じょ.おう",
                 "meanings": {
-                    "es": ["Reina"]
+                    "es": ["reina"]
                 }
             }
         ],
@@ -149,28 +149,28 @@
                 "kotoba": "音楽",
                 "reading": "おん.がく",
                 "meanings": {
-                    "es": ["Música"]
+                    "es": ["música"]
                 }
             },
             {
                 "kotoba": "音読",
                 "reading": "おん.どく",
                 "meanings": {
-                    "es": ["Leer en voz alta"]
+                    "es": ["leer en voz alta"]
                 }
             },
             {
                 "kotoba": "音色",
                 "reading": "ね.いろ",
                 "meanings": {
-                    "es": ["Tonalidad de color"]
+                    "es": ["tonalidad de color"]
                 }
             },
             {
                 "kotoba": "音",
                 "reading": "おと",
                 "meanings": {
-                    "es": ["Sonido"]
+                    "es": ["sonido"]
                 }
             }
         ],
@@ -187,28 +187,28 @@
                 "kotoba": "下",
                 "reading": "した",
                 "meanings": {
-                    "es": ["Abajo"]
+                    "es": ["abajo"]
                 }
             },
             {
                 "kotoba": "地下",
                 "reading": "ち.か",
                 "meanings": {
-                    "es": ["Bajo tierra"]
+                    "es": ["bajo tierra"]
                 }
             },
             {
                 "kotoba": "地下鉄",
                 "reading": "ち.か.てつ",
                 "meanings": {
-                    "es": ["Metro (Vehículo)"]
+                    "es": ["metro (vehículo)"]
                 }
             },
             {
                 "kotoba": "上下",
                 "reading": "じょう.げ",
                 "meanings": {
-                    "es": ["Arriba y abajo"]
+                    "es": ["arriba y abajo"]
                 }
             }
         ],
@@ -225,34 +225,72 @@
                 "kotoba": "火曜日",
                 "reading": "か.よう.び",
                 "meanings": {
-                    "es": ["Martes"]
+                    "es": ["martes"]
                 }
             },
             {
                 "kotoba": "火山",
                 "reading": "か.ざん",
                 "meanings": {
-                    "es": ["Volcán"]
+                    "es": ["volcán"]
                 }
             },
             {
                 "kotoba": "火花",
                 "reading": "ひ.ばな",
                 "meanings": {
-                    "es": ["Chispa"]
+                    "es": ["chispa"]
                 }
             },
             {
                 "kotoba": "花火",
                 "reading": "はな.び",
                 "meanings": {
-                    "es": ["Fuegos artificiales"]
+                    "es": ["fuegos artificiales"]
                 }
             }
         ],
         "parts": ["火"],
         "radical": "火",
         "strokes": 4,
+        "lvl": "小学校の１年"
+    },{
+        "ideogram": "花",
+        "kunyomi": ["はな"],
+        "onyomi": ["カ"],
+        "words": [
+            {
+                "kotoba": "火花",
+                "reading": "ひ.ばな",
+                "meanings": {
+                    "es": ["chispa"]
+                }
+            },
+            {
+                "kotoba": "花火",
+                "reading": "はな.び",
+                "meanings": {
+                    "es": ["fuegos artificiales"]
+                }
+            },
+            {
+                "kotoba": "花瓶",
+                "reading": "はな.びん",
+                "meanings": {
+                    "es": ["florero"]
+                }
+            },
+            {
+                "kotoba": "花束",
+                "reading": "はな.たば",
+                "meanings": {
+                    "es": ["ramo de flores"]
+                }
+            }
+        ],
+        "parts": ["化", "匕", "艾"],
+        "radical": "艹",
+        "strokes": 7,
         "lvl": "小学校の１年"
     },{
         "ideogram" : "引",
@@ -263,7 +301,7 @@
                 "kotoba" : "引く",
                 "reading" : "ひ.く",
                 "meanings" : {
-                    "es": ["Tirar de algo"]
+                    "es": ["tirar de algo"]
                 }
             },
             {
@@ -279,14 +317,14 @@
                 "kotoba" : "引用",
                 "reading" : "いん.よう",
                 "meanings" : {
-                    "es": ["Cita (escrita)"]
+                    "es": ["cita (escrita)"]
                 }
             },
             {
                 "kotoba" : "引力",
                 "reading" : "いん.りょく",
                 "meanings" : {
-                    "es": ["Fuerza gravitatoria"]
+                    "es": ["fuerza gravitatoria"]
                 }
             }
         ],
