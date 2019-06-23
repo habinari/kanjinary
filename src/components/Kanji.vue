@@ -6,37 +6,37 @@
             </div>
         </div>
 
-        <div class="columns">
-            <div class="is-offset-2 column is-3 has-text-right">
-                <p class="is-size-5">Kunyomi:</p>
+        <div class="columns is-multiline is-centered">
+            <div class="column is-12 has-text-center">
+                <p class="is-size-5">Kunyomi</p>
             </div>
-            <div class="column is-4 has-text-left">
+            <div class="column is-5 has-text-center is-paddingless">
                 <p class="is-size-5">
-                    <span v-for="yomi in kanji.kunyomi" :key="yomi" class="m-l-md">{{yomi}}</span>
+                    <span v-for="yomi in kanji.kunyomi" :key="yomi" class="p-l-sm p-r-sm">{{yomi}}</span>
                 </p>
             </div>
         </div>
 
-        <div class="columns">
-            <div class="is-offset-2 column is-3 has-text-right">
-                <p class="is-size-5">Onyomi:</p>
+        <div class="columns is-multiline is-centered m-t-l">
+            <div class="column is-12 has-text-center">
+                <p class="is-size-5">Onyomi</p>
             </div>
-            <div class="column is-4 has-text-left">
+            <div class="column is-5 has-text-center is-paddingless">
                 <p class="is-size-5">
-                    <span v-for="yomi in kanji.onyomi" :key="yomi" class="m-l-md">{{yomi}}</span>
+                    <span v-for="yomi in kanji.onyomi" :key="yomi" class="p-l-sm p-r-sm">{{yomi}}</span>
                 </p>
             </div>
         </div>
 
         <div class="columns is-centered m-t-md">
             <div class="column is-2">
-                <p>Radical:</p> {{kanji.radical}}
+                <p>Radical</p> {{kanji.radical}}
             </div>
             <div class="column is-2">
-                <p>Trazos:</p> {{kanji.strokes}}
+                <p>Trazos</p> {{kanji.strokes}}
             </div>
             <div class="column is-2">
-                <p>Nivel:</p> {{kanji.lvl}}
+                <p>Nivel</p> {{kanji.lvl}}
             </div>
         </div>
 
