@@ -30,6 +30,9 @@
 
         <div class="columns is-centered m-t-md">
             <div class="column is-2">
+                <p>Partes</p> <span v-for="part in kanji.parts" :key="part" class="p-l-sm p-r-sm">{{part}}</span>
+            </div>
+            <div class="column is-2">
                 <p>Radical</p> {{kanji.radical}}
             </div>
             <div class="column is-2">
