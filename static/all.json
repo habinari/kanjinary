@@ -382,6 +382,13 @@
                 "meanings": {
                     "es": ["estudiante de secundaria"]
                 }
+            },
+            {
+                "kotoba": "学ぶ",
+                "reading": "まな.ぶ",
+                "meanings": {
+                    "es": ["estudiar"]
+                }
             }
         ],
         "parts": ["冖", "子", "尚"],
