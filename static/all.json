@@ -685,5 +685,43 @@
         "radical": "犬",
         "strokes": 4,
         "lvl": "小学校の１年"
+    },{
+        "ideogram": "見",
+        "kunyomi": ["み.る", "み.える", "み.せる"],
+        "onyomi": ["ケン"],
+        "words": [
+            {
+                "kotoba": "見る",
+                "reading": "み.る",
+                "meanings": {
+                    "es": ["mirar", "ver"]
+                }
+            },
+            {
+                "kotoba": "見える",
+                "reading": "み.える",
+                "meanings": {
+                    "es": ["poder ver", "verse", "poder verse"]
+                }
+            },
+            {
+                "kotoba": "見せる",
+                "reading": "み.せる",
+                "meanings": {
+                    "es": ["mostrar"]
+                }
+            },
+            {
+                "kotoba": "見解",
+                "reading": "けん.かい",
+                "meanings": {
+                    "es": ["punto de vista", "opinion"]
+                }
+            }
+        ],
+        "parts": ["目", "見", "儿"],
+        "radical": "見",
+        "strokes": 7,
+        "lvl": "小学校の１年"
     }
 ]
