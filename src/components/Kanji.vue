@@ -44,10 +44,24 @@
             </div>
         </div>
 
+        <div class="columns is-centered is-multiline m-t-md m-b-sm">
+            <div class="column is-12">
+                <p class="is-size-5">Palabras</p>
+            </div>
+
+            <div v-for="word in kanji.words" :key="word.kotoba" class="column is-4">
+                <Word v-bind:word="word"/>
+            </div>
+
+        </div>
+
     </section>
 </template>
 
 <script>
+
+import Word from '@/components/Word.vue'
+
 export default {
     name: 'kanji',
 
@@ -55,8 +69,13 @@ export default {
         kanji: Object
     },
 
+    components: {
+        Word
+    },
+
     data: function() {
         return {
+            test: 'Kanji Test!'
         }
     }
 }
