@@ -23,6 +23,8 @@ export default {
         return {
             test: 'Test Level!!',
 
+            lvlReference: '',
+
             levels: [
                 {
 
@@ -37,19 +39,26 @@ export default {
 
     methods: {
         loadLevels: function() {
-            const lvlReference = this.$route.params.lvl
+            if(!this.lvlReference)
+                this.lvlReference = this.$route.params.lvl
             var vueCtx = this
             var axios = require('axios')
-            axios.get(LVL_PATH + lvlReference + '.json')
+            axios.get(LVL_PATH + vueCtx.lvlReference + '.json')
                 .then(function (response) {
                   vueCtx.levels = response.data
-                  if(lvlReference != 'all')
+                  if(vueCtx.lvlReference != 'all')
                     vueCtx.levels = [vueCtx.levels]
                 })
                 .catch(function (error) {
                     alert('ERROR')
                 });
         }
+    },
+
+    beforeRouteUpdate: function(to, from, next) {
+        this.lvlReference = to.params.lvl
+        this.loadLevels();
+        next();
     }
 }
 </script>
