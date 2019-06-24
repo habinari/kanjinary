@@ -496,6 +496,27 @@
                 "meanings": {
                     "es": ["dar un descanso"]
                 }
+            },
+            {
+                "kotoba": "休日",
+                "reading": "きゅう.じつ",
+                "meanings": {
+                    "es": ["día festivo"]
+                }
+            },
+            {
+                "kotoba": "休息",
+                "reading": "きゅう.そく",
+                "meanings": {
+                    "es": ["descanso (hacer un descanso)"]
+                }
+            },
+            {
+                "kotoba": "夏休み",
+                "reading": "夏.やす.み",
+                "meanings": {
+                    "es": ["vacaciones de verano"]
+                }
             }
         ],
         "parts": ["化", "木"],
