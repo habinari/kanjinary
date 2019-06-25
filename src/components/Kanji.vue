@@ -40,7 +40,7 @@
                 <p>Trazos</p> {{kanji.strokes}}
             </div>
             <div class="column is-2">
-                <p>Nivel</p> {{kanji.lvl}}
+                <p>Nivel</p> <router-link class="has-text-grey-dark" v-bind:to="'/levels/' + kanji.lvl">{{kanji.lvl}}</router-link>
             </div>
         </div>
 

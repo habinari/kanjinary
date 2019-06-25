@@ -2,12 +2,14 @@
     <section class="section">
         <div class="columns is-mobile">
             <div class="column has-text-centered m-t-xl">
-                <h1 class="is-narrow title">{{name}}</h1>
+                <router-link v-bind:to="'/levels/' + name">
+                    <h1 class="is-narrow title">{{name}}</h1>
+                </router-link>
             </div>
         </div>
         <div class="columns is-centered is-multiline is-mobile">
             <div v-for="kanji in kanjis" :key="kanji" class="column is-narrow-mobile is-1-tablet">
-                <router-link v-bind:to="`/kanji/${kanji}`">
+                <router-link v-bind:to="'/kanji/' + kanji">
                     <p class="is-size-3 has-text-centered has-text-dark">
                       {{kanji}}
                     </p>
