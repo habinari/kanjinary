@@ -939,5 +939,36 @@
         "radical": "子",
         "strokes": 3,
         "lvl": "小学校の１年"
+    },{
+        "ideogram": "四",
+        "kunyomi": ["よ", "よ.つ", "よっ.つ", "よん"],
+        "onyomi": ["シ"],
+        "words": [
+            {
+                "kotoba" : "四",
+                "reading" : "よん",
+                "meanings" : {
+                    "es": ["4"]
+                }
+            },
+            {
+                "kotoba" : "四人",
+                "reading" : "よ.にん",
+                "meanings" : {
+                    "es": ["4 personas"]
+                }
+            },
+            {
+                "kotoba" : "四月四日",
+                "reading" : "し.がつ.よう.か",
+                "meanings" : {
+                    "es": ["4 de abril"]
+                }
+            }
+        ],
+        "parts": ["儿", "囗"],
+        "radical": "囗",
+        "strokes": 3,
+        "lvl": "小学校の１年"
     }
 ]
