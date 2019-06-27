@@ -1128,5 +1128,36 @@
         "radical": "車",
         "strokes": 7,
         "lvl": "小学校の１年"
+    },{
+        "ideogram": "手",
+        "kunyomi": ["て"],
+        "onyomi": ["シュ"],
+        "words": [
+            {
+                "kotoba" : "手",
+                "reading" : "て",
+                "meanings" : {
+                    "es": ["mano"]
+                }
+            },
+            {
+                "kotoba" : "歌手",
+                "reading" : "か.しゅ",
+                "meanings" : {
+                    "es": ["cantante"]
+                }
+            },
+            {
+                "kotoba" : "手紙",
+                "reading" : "て.がみ",
+                "meanings" : {
+                    "es": ["carta"]
+                }
+            }
+        ],
+        "parts": ["手 "],
+        "radical": "手 ",
+        "strokes": 4,
+        "lvl": "小学校の１年"
     }
 ]
