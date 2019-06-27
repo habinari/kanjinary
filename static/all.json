@@ -867,5 +867,53 @@
         "radical": "工",
         "strokes": 5,
         "lvl": "小学校の１年"
+    },{
+        "ideogram": "三",
+        "kunyomi": ["み", "み.つ", "みっ.つ"],
+        "onyomi": ["サン"],
+        "words": [
+            {
+                "kotoba" : "三",
+                "reading" : "さん",
+                "meanings" : {
+                    "es": ["3"]
+                }
+            },
+            {
+                "kotoba" : "三年",
+                "reading" : "さん.ねん",
+                "meanings" : {
+                    "es": ["tres años"]
+                }
+            }
+        ],
+        "parts": ["一", "二"],
+        "radical": "一",
+        "strokes": 3,
+        "lvl": "小学校の１年"
+    },{
+        "ideogram": "山",
+        "kunyomi": ["やま"],
+        "onyomi": ["サン"],
+        "words": [
+            {
+                "kotoba" : "山",
+                "reading" : "やま",
+                "meanings" : {
+                    "es": ["montaña"]
+                }
+            },
+            {
+                "kotoba" : "富士山",
+                "reading" : "ふ.じ.さん",
+                "meanings" : {
+                    "es": ["monte fuji"]
+                }
+            }
+        ],
+        "parts": ["山"],
+        "radical": "山",
+        "strokes": 3,
+        "lvl": "小学校の１年"
     }
 ]
