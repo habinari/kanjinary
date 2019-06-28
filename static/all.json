@@ -1050,30 +1050,6 @@
         "strokes": 6,
         "lvl": "小学校の１年"
     },{
-        "ideogram": "耳",
-        "kunyomi": ["みみ"],
-        "onyomi": ["ジ"],
-        "words": [
-            {
-                "kotoba" : "耳",
-                "reading" : "みみ",
-                "meanings" : {
-                    "es": ["oreja"]
-                }
-            },
-            {
-                "kotoba" : "耳鼻科",
-                "reading" : "じ.び.か",
-                "meanings" : {
-                    "es": ["otorrinolaringología"]
-                }
-            }
-        ],
-        "parts": ["耳"],
-        "radical": "耳",
-        "strokes": 6,
-        "lvl": "小学校の１年"
-    },{
         "ideogram": "七",
         "kunyomi": ["なな", "なな.つ", "なの"],
         "onyomi": ["シチ"],
