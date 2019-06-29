@@ -1220,14 +1220,14 @@
                 "kotoba": "女神",
                 "reading": "め.がみ",
                 "meanings": {
-                    "es": ["Diosa"]
+                    "es": ["diosa"]
                 }
             },
             {
                 "kotoba": "女の子",
                 "reading": "おんな.の.こ",
                 "meanings": {
-                    "es": ["Niña"]
+                    "es": ["niña"]
                 }
             },
             {
@@ -1240,6 +1240,44 @@
         ],
         "parts": ["女"],
         "radical": "女",
+        "strokes": 3,
+        "lvl": "小学校の１年"
+    },{
+        "ideogram": "小",
+        "kunyomi": ["ちい.さい", "こ", "お"],
+        "onyomi": ["ショウ"],
+        "words": [
+            {
+                "kotoba": "小さい",
+                "reading": "ちい.さい",
+                "meanings": {
+                    "es": ["pequeño"]
+                }
+            },
+            {
+                "kotoba": "小鳥",
+                "reading": "こ.とり",
+                "meanings": {
+                    "es": ["pajaro pequeño"]
+                }
+            },
+            {
+                "kotoba": "小川",
+                "reading": "お.がわ",
+                "meanings": {
+                    "es": ["corriente"]
+                }
+            },
+            {
+                "kotoba": "小学校",
+                "reading": "しょう.がっ.こう",
+                "meanings": {
+                    "es": ["escuela primaria"]
+                }
+            }
+        ],
+        "parts": ["小"],
+        "radical": "小",
         "strokes": 3,
         "lvl": "小学校の１年"
     }
