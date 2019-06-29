@@ -1228,5 +1228,43 @@
         "radical": "凵",
         "strokes": 5,
         "lvl": "小学校の１年"
+    },{
+        "ideogram": "女",
+        "kunyomi": ["おんな", "め"],
+        "onyomi": ["ジョ", "ニョ", "ニョウ"],
+        "words": [
+            {
+                "kotoba": "女",
+                "reading": "おんな",
+                "meanings": {
+                    "es": ["mujer"]
+                }
+            },
+            {
+                "kotoba": "女神",
+                "reading": "め.がみ",
+                "meanings": {
+                    "es": ["Diosa"]
+                }
+            },
+            {
+                "kotoba": "女の子",
+                "reading": "おんな.の.こ",
+                "meanings": {
+                    "es": ["Niña"]
+                }
+            },
+            {
+                "kotoba": "長女",
+                "reading": "ちょうじょ",
+                "meanings": {
+                    "es": ["primogénita"]
+                }
+            }
+        ],
+        "parts": ["女"],
+        "radical": "女",
+        "strokes": 3,
+        "lvl": "小学校の１年"
     }
 ]
