@@ -1674,5 +1674,29 @@
         "radical": "赤",
         "strokes": 7,
         "lvl": "小学校の１年"
+    },{
+        "ideogram": "千",
+        "kunyomi": ["ち"],
+        "onyomi": ["セン"],
+        "words": [
+            {
+                "kotoba": "千",
+                "reading": "せん",
+                "meanings": {
+                    "es": ["1000"]
+                }
+            },
+            {
+                "kotoba": "千草",
+                "reading": "ち.ぐさ",
+                "meanings": {
+                    "es": ["gran variedad de flores y plantas"]
+                }
+            }
+        ],
+        "parts": ["ノ", "十"],
+        "radical": "十",
+        "strokes": 3,
+        "lvl": "小学校の１年"
     }
 ]
