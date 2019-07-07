@@ -520,7 +520,7 @@
             },
             {
                 "kotoba": "夏休み",
-                "reading": "夏.やす.み",
+                "reading": "なつ.やす.み",
                 "meanings": {
                     "es": ["vacaciones de verano"]
                 }
@@ -1604,6 +1604,30 @@
         "parts": ["夕"],
         "radical": "夕",
         "strokes": 3,
+        "lvl": "小学校の１年"
+    },{
+        "ideogram": "石",
+        "kunyomi": ["いし"],
+        "onyomi": ["セキ", "シャク"],
+        "words": [
+            {
+                "kotoba": "石",
+                "reading": "いし",
+                "meanings": {
+                    "es": ["roca"]
+                }
+            },
+            {
+                "kotoba": "化石",
+                "reading": "か.せき",
+                "meanings": {
+                    "es": ["fósil"]
+                }
+            }
+        ],
+        "parts": ["口", "石"],
+        "radical": "石",
+        "strokes": 5,
         "lvl": "小学校の１年"
     }
 ]
