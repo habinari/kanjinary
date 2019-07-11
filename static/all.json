@@ -1891,5 +1891,43 @@
         "radical": "木",
         "strokes": 7,
         "lvl": "小学校の１年"
+    },{
+        "ideogram": "大",
+        "kunyomi": ["おお", "おお.きい"],
+        "onyomi": ["ダイ", "タイ"],
+        "words": [
+            {
+                "kotoba": "大きい",
+                "reading": "おお.きい",
+                "meanings": {
+                    "es": ["grande"]
+                }
+            },
+            {
+                "kotoba": "大好き",
+                "reading": "だい.す.き",
+                "meanings": {
+                    "es": ["gustar"]
+                }
+            },
+            {
+                "kotoba": "大事",
+                "reading": "だい.じ",
+                "meanings": {
+                    "es": ["importante", "crucial"]
+                }
+            },
+            {
+                "kotoba": "大切",
+                "reading": "たい.せつ",
+                "meanings": {
+                    "es": ["importante", "necesario"]
+                }
+            }
+        ],
+        "parts": ["大"],
+        "radical": "大",
+        "strokes": 3,
+        "lvl": "小学校の１年"
     }
 ]
