@@ -1981,7 +1981,7 @@
             },
             {
                 "kotoba": "竹の子",
-                "reading": "たけのこ",
+                "reading": "たけ.の.こ",
                 "meanings": {
                     "es": ["brote de bambú"]
                 }
@@ -1990,6 +1990,37 @@
         "parts": ["竹", "乞"],
         "radical": "竹",
         "strokes": 6,
+        "lvl": "小学校の１年"
+    },{
+        "ideogram": "中",
+        "kunyomi": ["なか"],
+        "onyomi": ["チュウ"],
+        "words": [
+            {
+                "kotoba": "中",
+                "reading": "なか",
+                "meanings": {
+                    "es": ["dentro", "entre", "centro"]
+                }
+            },
+            {
+                "kotoba": "水中",
+                "reading": "すい.ちゅう",
+                "meanings": {
+                    "es": ["dentro del agua"]
+                }
+            },
+            {
+                "kotoba": "中心",
+                "reading": "ちゅう.しん",
+                "meanings": {
+                    "es": ["centro", "corazón", "nucleo", "énfasis"]
+                }
+            }
+        ],
+        "parts": ["｜", "口"],
+        "radical": "丨",
+        "strokes": 4,
         "lvl": "小学校の１年"
     }
 ]
