@@ -2187,7 +2187,7 @@
             },
             {
                 "kotoba": "三日",
-                "reading": " みっ.か",
+                "reading": "みっ.か",
                 "meanings": {
                     "es": ["tercer día del mes"]
                 }
@@ -2196,6 +2196,37 @@
         "parts": ["日"],
         "radical": "日",
         "strokes": 4,
+        "lvl": "小学校の１年"
+    },{
+        "ideogram": "入",
+        "kunyomi": ["い.る", "い.れる", "はい.る"],
+        "onyomi": ["ニュウ", "ジュ"],
+        "words": [
+            {
+                "kotoba": "入る",
+                "reading": "い.る",
+                "meanings": {
+                    "es": ["entrar"]
+                }
+            },
+            {
+                "kotoba": "入れる",
+                "reading": "い.れる",
+                "meanings": {
+                    "es": ["meter dentro", "introducir", "aceptar"]
+                }
+            },
+            {
+                "kotoba": "入る",
+                "reading": "はい.る",
+                "meanings": {
+                    "es": ["entrar", "meterse"]
+                }
+            }
+        ],
+        "parts": ["入"],
+        "radical": "入",
+        "strokes": 2,
         "lvl": "小学校の１年"
     }
 ]
