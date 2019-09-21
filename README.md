@@ -52,5 +52,5 @@ See also the list of [contributors](https://github.com/kabi404/kanjinary/contrib
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE]([LICENSE.md](https://github.com/kabi404/kanjinary/blob/master/LICENSE)) file for details
 
