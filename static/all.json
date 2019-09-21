@@ -2494,5 +2494,43 @@
         "radical": "木",
         "strokes": 5,
         "lvl": "小学校の１年"
+    },{
+        "ideogram": "名",
+        "kunyomi": ["な"],
+        "onyomi": ["メイ", "ミョウ"],
+        "words": [
+            {
+                "kotoba": "名前",
+                "reading": "な.まえ",
+                "meanings": {
+                    "es": ["nombre"]
+                }
+            },
+            {
+                "kotoba": "名刺",
+                "reading": "めい.し",
+                "meanings": {
+                    "es": ["tarjeta de empresa"]
+                }
+            },
+            {
+                "kotoba": "大本",
+                "reading": "おお.もと",
+                "meanings": {
+                    "es": ["raíz", "origen", "fuente (datos)", "base"]
+                }
+            },
+            {
+                "kotoba": "名字",
+                "reading": "みょう.じ",
+                "meanings": {
+                    "es": ["apellido", "nombre de familia"]
+                }
+            }
+        ],
+        "parts": ["口", "夕"],
+        "radical": "口",
+        "strokes": 6,
+        "lvl": "小学校の１年"
     }
 ]
