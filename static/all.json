@@ -2135,5 +2135,36 @@
         "radical": "土",
         "strokes": 3,
         "lvl": "小学校の１年"
+    },{
+        "ideogram": "二",
+        "kunyomi": ["ふた"],
+        "onyomi": ["ニ"],
+        "words": [
+            {
+                "kotoba": "二",
+                "reading": "に",
+                "meanings": {
+                    "es": ["dos"]
+                }
+            },
+            {
+                "kotoba": "二つ目",
+                "reading": "ふた.つ.め",
+                "meanings": {
+                    "es": ["segundo"]
+                }
+            },
+            {
+                "kotoba": "二月",
+                "reading": "に.がつ",
+                "meanings": {
+                    "es": ["febrero"]
+                }
+            }
+        ],
+        "parts": ["二"],
+        "radical": "二",
+        "strokes": 2,
+        "lvl": "小学校の１年"
     }
 ]
