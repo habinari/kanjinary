@@ -2111,5 +2111,29 @@
         "radical": "田",
         "strokes": 5,
         "lvl": "小学校の１年"
+    },{
+        "ideogram": "土",
+        "kunyomi": ["つち"],
+        "onyomi": ["ド", "ト"],
+        "words": [
+            {
+                "kotoba": "土",
+                "reading": "つち",
+                "meanings": {
+                    "es": ["tierra"]
+                }
+            },
+            {
+                "kotoba": "土曜日",
+                "reading": "ど.よう.び",
+                "meanings": {
+                    "es": ["sábado"]
+                }
+            }
+        ],
+        "parts": ["土"],
+        "radical": "土",
+        "strokes": 3,
+        "lvl": "小学校の１年"
     }
 ]
