@@ -6,6 +6,14 @@
 
 Kanji database in order of Japanese teaching. Made by japanese students for Japanese students. 
 
+## Getting Started
+
+Download the source project and run it with the npm script "serve" or node (at root directory):
+```Shell
+npm install
+npm run serve
+```
+
 ### Prerequisites
 
 * [Node.js](https://nodejs.org/) - JavaScript runtime environment.
@@ -13,14 +21,6 @@ Kanji database in order of Japanese teaching. Made by japanese students for Japa
 
 ```Shell
 npm install
-```
-
-## Getting Started
-
-Download the source project and run it with the npm script "serve" or node (at root directory):
-```Shell
-npm install
-npm run serve
 ```
 
 ## Built With
