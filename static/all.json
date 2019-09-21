@@ -2342,5 +2342,36 @@
         "radical": "八",
         "strokes": 2,
         "lvl": "小学校の１年"
+    },{
+        "ideogram": "百",
+        "kunyomi": [],
+        "onyomi": ["ヒャク"],
+        "words": [
+            {
+                "kotoba": "百",
+                "reading": "ひゃく",
+                "meanings": {
+                    "es": ["cien"]
+                }
+            },
+            {
+                "kotoba": "百円",
+                "reading": "ひゃく.えん",
+                "meanings": {
+                    "es": ["cien yens"]
+                }
+            },
+            {
+                "kotoba": "百円玉",
+                "reading": "ひゃく.えん.たま",
+                "meanings": {
+                    "es": ["moneda de cien yens"]
+                }
+            }
+        ],
+        "parts": ["白", "一"],
+        "radical": "白",
+        "strokes": 6,
+        "lvl": "小学校の１年"
     }
 ]
