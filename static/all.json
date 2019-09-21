@@ -2256,7 +2256,7 @@
             },
             {
                 "kotoba": "去年",
-                "reading": " きょ.ねん",
+                "reading": "きょ.ねん",
                 "meanings": {
                     "es": ["el último año"]
                 }
@@ -2265,6 +2265,44 @@
         "parts": ["一", "ノ", "干", "乞"],
         "radical": "干",
         "strokes": 6,
+        "lvl": "小学校の１年"
+    },{
+        "ideogram": "白",
+        "kunyomi": ["しろ", "しろ.い"],
+        "onyomi": ["ハク", "ビャク"],
+        "words": [
+            {
+                "kotoba": "白い",
+                "reading": "しろ.い",
+                "meanings": {
+                    "es": ["blanco"]
+                }
+            },
+            {
+                "kotoba": "白",
+                "reading": "しろ",
+                "meanings": {
+                    "es": ["blanco"]
+                }
+            },
+            {
+                "kotoba": "面白い",
+                "reading": "おも.しろ.い",
+                "meanings": {
+                    "es": ["interesante"]
+                }
+            },
+            {
+                "kotoba": "空白",
+                "reading": "くう.はく",
+                "meanings": {
+                    "es": ["espacio en blanco", "espacio"]
+                }
+            }
+        ],
+        "parts": ["白"],
+        "radical": "白",
+        "strokes": 5,
         "lvl": "小学校の１年"
     }
 ]
