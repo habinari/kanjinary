@@ -2779,7 +2779,7 @@
         "onyomi": ["エン"],
         "words": [
             {
-                "kotoba": "園 ",
+                "kotoba": "園",
                 "reading": "その",
                 "meanings": {
                     "es": ["jardín (artificial)", "parque"]
@@ -2818,5 +2818,95 @@
         "radical": "囗",
         "strokes": 13,
         "lvl": "小学校の２年"
+    },{
+        "ideogram": "変",
+        "kunyomi": ["か.わる", "か.える"],
+        "onyomi": ["ヘン"],
+        "words": [
+            {
+                "kotoba": "大変",
+                "reading": "たい.へん",
+                "meanings": {
+                    "es": ["difícil", "tedioso"]
+                }
+            },
+            {
+                "kotoba": "変わる",
+                "reading": "か.わる",
+                "meanings": {
+                    "es": ["cambiar"]
+                }
+            },
+            {
+                "kotoba": "変わり",
+                "reading": "か.わり",
+                "meanings": {
+                    "es": ["cambio", "alteración"]
+                }
+            },
+            {
+                "kotoba": "変える",
+                "reading": "か.える",
+                "meanings": {
+                    "es": ["cambiar"]
+                }
+            },
+            {
+                "kotoba": "変化",
+                "reading": "ヘン.カ",
+                "meanings": {
+                    "es": ["cambio", "variación", "alteración"]
+                }
+            }
+        ],
+        "parts": ["亠", "夂"],
+        "radical": "夂",
+        "strokes": 9,
+        "lvl": "小学校の４年"
+    },{
+        "ideogram": "便",
+        "kunyomi": ["たよ.り"],
+        "onyomi": ["ベン", "ビン"],
+        "words": [
+            {
+                "kotoba": "便利",
+                "reading": "べん.り",
+                "meanings": {
+                    "es": ["útil", "conveniente"]
+                }
+            },
+            {
+                "kotoba": "便り",
+                "reading": "たよ.り",
+                "meanings": {
+                    "es": ["correspondencia", "carta", "información"]
+                }
+            },
+            {
+                "kotoba": "不便",
+                "reading": "ふ.べん",
+                "meanings": {
+                    "es": ["inconveniencia"]
+                }
+            },
+            {
+                "kotoba": "便所",
+                "reading": "べん.じょ",
+                "meanings": {
+                    "es": ["inodoro", "baño (lugar)"]
+                }
+            },
+            {
+                "kotoba": "郵便局",
+                "reading": "ゆう.びん.きょく",
+                "meanings": {
+                    "es": ["oficina de correos"]
+                }
+            }
+        ],
+        "parts": ["一", "｜", "ノ", "化", "日", "田"],
+        "radical": "人",
+        "strokes": 9,
+        "lvl": "小学校の４年"
     }
 ]
