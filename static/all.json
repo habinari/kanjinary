@@ -2963,5 +2963,43 @@
         "radical": "水",
         "strokes": 8,
         "lvl": "小学校の４年"
+    },{
+        "ideogram": "望",
+        "kunyomi": ["のぞ.む"],
+        "onyomi": ["ボウ"],
+        "words": [
+            {
+                "kotoba": "望む",
+                "reading": "のぞ.む",
+                "meanings": {
+                    "es": ["desear"]
+                }
+            },
+            {
+                "kotoba": "希望",
+                "reading": "き.ぼう",
+                "meanings": {
+                    "es": ["esperanza"]
+                }
+            },
+            {
+                "kotoba": "高望み",
+                "reading": "たか.のぞ.み",
+                "meanings": {
+                    "es": ["apuntar alto"]
+                }
+            },
+            {
+                "kotoba": "本望",
+                "reading": "ほう.もう",
+                "meanings": {
+                    "es": ["ambición"]
+                }
+            }
+        ],
+        "parts": ["亡", "月", "王"],
+        "radical": "月",
+        "strokes": 11,
+        "lvl": "小学校の４年"
     }
 ]
