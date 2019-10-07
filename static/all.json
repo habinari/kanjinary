@@ -3391,5 +3391,81 @@
         "radical": "西",
         "strokes": 9,
         "lvl": "小学校の４年"
+    },{
+        "ideogram": "要",
+        "kunyomi": ["い.る"],
+        "onyomi": ["ヨウ"],
+        "words": [
+            {
+                "kotoba": "要る",
+                "reading": "い.る",
+                "meanings": {
+                    "es": ["necesitar"]
+                }
+            },
+            {
+                "kotoba": "必要",
+                "reading": "ひつ.よう",
+                "meanings": {
+                    "es": ["necesario", "indispensable", "esencial"]
+                }
+            },
+            {
+                "kotoba": "要点",
+                "reading": "よう.てん",
+                "meanings": {
+                    "es": ["punto principal", "esencia"]
+                }
+            },
+            {
+                "kotoba": "重要",
+                "reading": "じゅう.よう",
+                "meanings": {
+                    "es": ["importante", "esencial"]
+                }
+            },
+            {
+                "kotoba": "要求",
+                "reading": "よう.きゅう",
+                "meanings": {
+                    "es": ["demanda (petición)", "requisito"]
+                }
+            }
+        ],
+        "parts": ["女", "西"],
+        "radical": "西",
+        "strokes": 9,
+        "lvl": "小学校の４年"
+    },{
+        "ideogram": "養",
+        "kunyomi": ["やしな.う"],
+        "onyomi": ["ヨウ"],
+        "words": [
+            {
+                "kotoba": "養う",
+                "reading": "やしな.う",
+                "meanings": {
+                    "es": ["criar", "alimentar", "mantener"]
+                }
+            },
+            {
+                "kotoba": "養分",
+                "reading": "よう.ぶん",
+                "meanings": {
+                    "es": ["nutriente"]
+                }
+            },
+            {
+                "kotoba": "教養",
+                "reading": "きょう.よう",
+                "meanings": {
+                    "es": ["educación (cultura)"]
+                }
+            }
+        ],
+        "parts": ["并", "王", "羊", "食"],
+        "radical": "食",
+        "strokes": 15,
+        "lvl": "小学校の４年"
     }
 ]
