@@ -3461,6 +3461,20 @@
                 "meanings": {
                     "es": ["conveniente", "útil"]
                 }
+            },
+            {
+                "kotoba": "有利",
+                "reading": "ゆう.り",
+                "meanings": {
+                    "es": ["ventajoso", "favorable", "lucrativo"]
+                }
+            },
+            {
+                "kotoba": "不利",
+                "reading": "ふ.り",
+                "meanings": {
+                    "es": ["desventajoso", "desfavorable"]
+                }
             }
         ],
         "parts": ["刈", "禾"],
