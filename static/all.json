@@ -3429,5 +3429,43 @@
         "radical": "水",
         "strokes": 10,
         "lvl": "小学校の４年"
+    },{
+        "ideogram": "利",
+        "kunyomi": ["き.く"],
+        "onyomi": ["リ"],
+        "words": [
+            {
+                "kotoba": "利く",
+                "reading": "き.く",
+                "meanings": {
+                    "es": ["ser efectivo"]
+                }
+            },
+            {
+                "kotoba": "利用",
+                "reading": "り.よう",
+                "meanings": {
+                    "es": ["uso", "utilización", "aplicación"]
+                }
+            },
+            {
+                "kotoba": "利益",
+                "reading": "り.えき",
+                "meanings": {
+                    "es": ["beneficio"]
+                }
+            },
+            {
+                "kotoba": "便利",
+                "reading": "べん.り",
+                "meanings": {
+                    "es": ["conveniente", "útil"]
+                }
+            }
+        ],
+        "parts": ["刈", "禾"],
+        "radical": "刀",
+        "strokes": 7,
+        "lvl": "小学校の４年"
     }
 ]
