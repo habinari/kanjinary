@@ -2880,7 +2880,45 @@
         "radical": "人",
         "strokes": 7,
         "lvl": "小学校の２年"
-    }
+    },{
+        "ideogram": "科",
+        "kunyomi": [],
+        "onyomi": ["カ"],
+        "words": [
+            {
+                "kotoba": "科学",
+                "reading": "か.がく",
+                "meanings": {
+                    "es": ["ciencia"]
+                }
+            },
+            {
+                "kotoba": "医科",
+                "reading": "い.か",
+                "meanings": {
+                    "es": ["ciencia médica", "departamento de medicina"]
+                }
+            },
+            {
+                "kotoba": "学科",
+                "reading": "がっ.か",
+                "meanings": {
+                    "es": ["departamento (universitario etc.)"]
+                }
+            },
+            {
+                "kotoba": "教科",
+                "reading": "きょうか",
+                "meanings": {
+                    "es": ["curso", "materia"]
+                }
+            }
+        ],
+        "parts": ["斗", "禾"],
+        "radical": "禾",
+        "strokes": 9,
+        "lvl": "小学校の２年"
+    },
 
 
 
