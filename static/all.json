@@ -2918,6 +2918,37 @@
         "radical": "禾",
         "strokes": 9,
         "lvl": "小学校の２年"
+    },{
+        "ideogram": "夏",
+        "kunyomi": ["なつ"],
+        "onyomi": ["カ", "ガ", "ゲ"],
+        "words": [
+            {
+                "kotoba": "夏",
+                "reading": "なつ",
+                "meanings": {
+                    "es": ["verano"]
+                }
+            },
+            {
+                "kotoba": "初夏",
+                "reading": "しょ.か",
+                "meanings": {
+                    "es": ["verano temprano"]
+                }
+            },
+            {
+                "kotoba": "夏休み",
+                "reading": "なつ.やす.み",
+                "meanings": {
+                    "es": ["vacaciones de verano"]
+                }
+            }
+        ],
+        "parts": ["一", "夂", "目", "自"],
+        "radical": "夊",
+        "strokes": 10,
+        "lvl": "小学校の２年"
     },
 
 
