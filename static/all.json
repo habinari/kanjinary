@@ -2981,6 +2981,13 @@
                 "meanings": {
                     "es": ["casa desocupada"]
                 }
+            },
+            {
+                "kotoba": "国家",
+                "reading": "こっ.か",
+                "meanings": {
+                    "es": ["estado (de un país)"]
+                }
             }
         ],
         "parts": ["宀", "豕"],
