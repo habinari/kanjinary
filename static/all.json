@@ -2949,6 +2949,44 @@
         "radical": "夊",
         "strokes": 10,
         "lvl": "小学校の２年"
+    },{
+        "ideogram": "家",
+        "kunyomi": ["いえ", "や", "うち"],
+        "onyomi": ["カ", "ケ"],
+        "words": [
+            {
+                "kotoba": "家",
+                "reading": "いえ",
+                "meanings": {
+                    "es": ["casa", "residencia", "hogar"]
+                }
+            },
+            {
+                "kotoba": "家",
+                "reading": "うち",
+                "meanings": {
+                    "es": ["casa"]
+                }
+            },
+            {
+                "kotoba": "家族",
+                "reading": "か.ぞく",
+                "meanings": {
+                    "es": ["familia"]
+                }
+            },
+            {
+                "kotoba": "空き家",
+                "reading": "あ.き.や",
+                "meanings": {
+                    "es": ["casa desocupada"]
+                }
+            }
+        ],
+        "parts": ["宀", "豕"],
+        "radical": "宀",
+        "strokes": 10,
+        "lvl": "小学校の２年"
     },
 
 
