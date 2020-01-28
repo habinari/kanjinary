@@ -3319,6 +3319,51 @@
         "radical": "角",
         "strokes": 7,
         "lvl": "小学校の２年"
+    },{
+        "ideogram": "楽",
+        "kunyomi": ["たの.しい", "たの.しむ"],
+        "onyomi": ["ガク", "ラク"],
+        "words": [
+            {
+                "kotoba": "楽しい",
+                "reading": "たの.し.い",
+                "meanings": {
+                    "es": ["divertido"]
+                }
+            },
+            {
+                "kotoba": "楽しむ",
+                "reading": "たの.し.む",
+                "meanings": {
+                    "es": ["disfrutar", "divertirse"]
+                }
+            },
+            {
+                "kotoba": "音楽",
+                "reading": "おん.がく",
+                "meanings": {
+                    "es": ["música"]
+                }
+            },
+            {
+                "kotoba": "気楽",
+                "reading": "き.らく",
+                "meanings": {
+                    "es": ["sin preocupaciones"]
+                }
+            },
+            {
+                "kotoba": "楽園",
+                "reading": "らく.えん",
+                "meanings": {
+                    "es": ["paraíso", "edén"]
+                }
+            }
+        ],
+        "parts": ["冫", "木", "白"],
+        "radical": "木",
+        "strokes": 13,
+        "lvl": "小学校の２年"
     },
 
 
