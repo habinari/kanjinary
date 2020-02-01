@@ -3468,8 +3468,46 @@
             }
         ],
         "parts": ["丶", "九"],
-        "radical": "丶 ",
+        "radical": "丶",
         "strokes": 3,
+        "lvl": "小学校の２年"
+    },{
+        "ideogram": "岩",
+        "kunyomi": ["いわ"],
+        "onyomi": ["ガン"],
+        "words": [
+            {
+                "kotoba": "岩",
+                "reading": "いわ",
+                "meanings": {
+                    "es": ["roca"]
+                }
+            },
+            {
+                "kotoba": "岩石",
+                "reading": "がん.せき",
+                "meanings": {
+                    "es": ["roca (geología)"]
+                }
+            },
+            {
+                "kotoba": "火山岩",
+                "reading": "か.ざん.がん",
+                "meanings": {
+                    "es": ["roca volcánica"]
+                }
+            },
+            {
+                "kotoba": "岩山",
+                "reading": "いわ.やま",
+                "meanings": {
+                    "es": ["montaña rocosa"]
+                }
+            }
+        ],
+        "parts": ["口", "山", "石"],
+        "radical": "山",
+        "strokes": 8,
         "lvl": "小学校の２年"
     },
 
