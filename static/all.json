@@ -3509,6 +3509,30 @@
         "radical": "山",
         "strokes": 8,
         "lvl": "小学校の２年"
+    },{
+        "ideogram": "顔",
+        "kunyomi": ["かお"],
+        "onyomi": ["ガン"],
+        "words": [
+            {
+                "kotoba": "顔",
+                "reading": "かお",
+                "meanings": {
+                    "es": ["cara"]
+                }
+            },
+            {
+                "kotoba": "いい顔",
+                "reading": "い.い.かお",
+                "meanings": {
+                    "es": ["buena cara", "persona influyente"]
+                }
+            }
+        ],
+        "parts": ["亠", " ハ", "厂", " 彡", "目", "立", "貝", "頁"],
+        "radical": "顏",
+        "strokes": 18,
+        "lvl": "小学校の２年"
     },
 
 
