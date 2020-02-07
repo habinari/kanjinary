@@ -3602,6 +3602,44 @@
         "radical": "言",
         "strokes": 10,
         "lvl": "小学校の２年"
+    },{
+        "ideogram": "帰",
+        "kunyomi": ["かえ.る", "かえ.す"],
+        "onyomi": ["キ"],
+        "words": [
+            {
+                "kotoba": "帰る",
+                "reading": "かえ.る",
+                "meanings": {
+                    "es": ["regresar", "volver a casa"]
+                }
+            },
+            {
+                "kotoba": "帰す",
+                "reading": "かえ.す",
+                "meanings": {
+                    "es": ["hacer volver a alguien a casa", "mandar a alguien a casa"]
+                }
+            },
+            {
+                "kotoba": "帰国",
+                "reading": "き.こく",
+                "meanings": {
+                    "es": ["regresar al país propio"]
+                }
+            },
+            {
+                "kotoba": "帰り道",
+                "reading": "かえ.り.みち",
+                "meanings": {
+                    "es": ["camino de vuelta"]
+                }
+            }
+        ],
+        "parts": ["冖", "刈", "巾", "ヨ"],
+        "radical": "巾",
+        "strokes": 10,
+        "lvl": "小学校の２年"
     },
 
 
