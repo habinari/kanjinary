@@ -3678,6 +3678,37 @@
         "radical": "弓",
         "strokes": 3,
         "lvl": "小学校の２年"
+    },{
+        "ideogram": "牛",
+        "kunyomi": ["うし"],
+        "onyomi": ["ギュウ"],
+        "words": [
+            {
+                "kotoba": "牛",
+                "reading": "うし",
+                "meanings": {
+                    "es": ["vaca"]
+                }
+            },
+            {
+                "kotoba": "牛肉",
+                "reading": "ぎゅう.にく",
+                "meanings": {
+                    "es": ["carne de ternera"]
+                }
+            },
+            {
+                "kotoba": "牛乳",
+                "reading": "ぎゅう.にゅう",
+                "meanings": {
+                    "es": ["leche de vaca"]
+                }
+            }
+        ],
+        "parts": ["牛"],
+        "radical": "牛",
+        "strokes": 4,
+        "lvl": "小学校の２年"
     },
 
 
