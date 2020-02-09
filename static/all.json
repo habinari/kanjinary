@@ -3740,6 +3740,37 @@
         "radical": "魚",
         "strokes": 11,
         "lvl": "小学校の２年"
+    },{
+        "ideogram": "京",
+        "kunyomi": [],
+        "onyomi": ["キョウ", "ケイ", "キン"],
+        "words": [
+            {
+                "kotoba": "東京",
+                "reading": "とう.きょう",
+                "meanings": {
+                    "es": ["Tokyo"]
+                }
+            },
+            {
+                "kotoba": "京都",
+                "reading": "きょう.と",
+                "meanings": {
+                    "es": ["Kyoto"]
+                }
+            },
+            {
+                "kotoba": "帰郷",
+                "reading": "き.きょう",
+                "meanings": {
+                    "es": ["regreso al hogar", "regresar al hogar de uno mismo"]
+                }
+            }
+        ],
+        "parts": ["亠", "口", "小"],
+        "radical": "亰",
+        "strokes": 8,
+        "lvl": "小学校の２年"
     },
 
 
