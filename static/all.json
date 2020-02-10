@@ -3816,6 +3816,44 @@
         "radical": "弓",
         "strokes": 11,
         "lvl": "小学校の２年"
+    },{
+        "ideogram": "教",
+        "kunyomi": ["おし.える", "おそ.わる"],
+        "onyomi": ["キョウ"],
+        "words": [
+            {
+                "kotoba": "教える",
+                "reading": "おし.える",
+                "meanings": {
+                    "es": ["enseñar", "instruir", "contar/mostrar"]
+                }
+            },
+            {
+                "kotoba": "教わる",
+                "reading": "おそ.わる",
+                "meanings": {
+                    "es": ["enseñarse", "tomar lecciones de"]
+                }
+            },
+            {
+                "kotoba": "教室",
+                "reading": "きょう.しつ",
+                "meanings": {
+                    "es": ["clase (habitación)"]
+                }
+            },
+            {
+                "kotoba": "教科",
+                "reading": "きょう.か",
+                "meanings": {
+                    "es": ["asignatura"]
+                }
+            }
+        ],
+        "parts": ["子", "老", "攵", "乞"],
+        "radical": "攴",
+        "strokes": 11,
+        "lvl": "小学校の２年"
     },
 
 
