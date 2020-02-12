@@ -3854,6 +3854,44 @@
         "radical": "攴",
         "strokes": 11,
         "lvl": "小学校の２年"
+    },{
+        "ideogram": "近",
+        "kunyomi": ["ちか.い"],
+        "onyomi": ["キン"],
+        "words": [
+            {
+                "kotoba": "近い",
+                "reading": "ちか.い",
+                "meanings": {
+                    "es": ["cerca", "íntimo (amistad)"]
+                }
+            },
+            {
+                "kotoba": "最近",
+                "reading": "さい.きん",
+                "meanings": {
+                    "es": ["actualmente", "recientemente", "en estos días"]
+                }
+            },
+            {
+                "kotoba": "近道",
+                "reading": "ちか.みち",
+                "meanings": {
+                    "es": ["atajo", "camino corto"]
+                }
+            },
+            {
+                "kotoba": "近所",
+                "reading": "きん.じょ",
+                "meanings": {
+                    "es": ["barrio"]
+                }
+            }
+        ],
+        "parts": ["込", "斤"],
+        "radical": "辵",
+        "strokes": 7,
+        "lvl": "小学校の２年"
     },
 
 
