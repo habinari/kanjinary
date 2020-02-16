@@ -4099,6 +4099,30 @@
         "radical": "厂",
         "strokes": 10,
         "lvl": "小学校の２年"
+    },{
+        "ideogram": "戸",
+        "kunyomi": ["と"],
+        "onyomi": ["コ"],
+        "words": [
+            {
+                "kotoba": "戸",
+                "reading": "と",
+                "meanings": {
+                    "es": ["puerta (estilo japonés)"]
+                }
+            },
+            {
+                "kotoba": "戸外",
+                "reading": "こ.がい",
+                "meanings": {
+                    "es": ["fuera de casa (en la calle)"]
+                }
+            }
+        ],
+        "parts": ["一", "尸", "戸"],
+        "radical": "戶",
+        "strokes": 4,
+        "lvl": "小学校の２年"
     },
 
 
