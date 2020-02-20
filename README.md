@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/version-1.0-green.svg?style=flat-square)
 ![](https://img.shields.io/badge/PRs-welcome-green.svg?style=flat-square)
 
-Kanji database in order of Japanese teaching. Made by japanese students for Japanese students. 
+Kanji webpage in order of Japanese teaching. Made by japanese students for Japanese students. 
 
 ## Getting Started
 
