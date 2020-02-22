@@ -23,7 +23,8 @@
         "radical": "一",
         "strokes": 1,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "右",
         "kunyomi": ["みぎ"],
         "onyomi": ["ウ", "ユウ"],
@@ -54,7 +55,8 @@
         "radical" : "口",
         "strokes" : 5,
         "lvl" : "小学校の１年"
-    },{
+    },
+    {
         "ideogram" : "雨",
         "kunyomi" : ["あめ", "あま"],
         "onyomi" : ["ウ"],
@@ -85,7 +87,8 @@
         "radical" : "雨",
         "strokes" : 8,
         "lvl" : "小学校の１年"
-    },{
+    },
+    {
         "ideogram" : "円",
         "kunyomi" : ["まる.い"],
         "onyomi" : ["エン"],
@@ -109,7 +112,8 @@
         "radical" : "冂",
         "strokes" : 4,
         "lvl" : "小学校の１年"
-    },{
+    },
+    {
         "ideogram" : "王",
         "kunyomi" : [],
         "onyomi" : ["オウ"],
@@ -147,7 +151,8 @@
         "radical" : "王",
         "strokes" : 4,
         "lvl" : "小学校の１年"
-    },{
+    },
+    {
         "ideogram" : "音",
         "kunyomi" : ["おと", "ね"],
         "onyomi" : ["オン"],
@@ -185,7 +190,8 @@
         "radical" : "音",
         "strokes" : 9,
         "lvl" : "小学校の１年"
-    },{
+    },
+    {
         "ideogram" : "下",
         "kunyomi" : ["した", "しも", "もと", "さ.げる", "さ.がる", "くだ.る", "くだ.す", "くだ.さる", "お.ろす", "お.りる"],
         "onyomi" : ["カ", "ゲ"],
@@ -223,7 +229,8 @@
         "radical" : "一",
         "strokes" : 3,
         "lvl" : "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "火",
         "kunyomi": ["ひ"],
         "onyomi": ["カ"],
@@ -261,7 +268,8 @@
         "radical": "火",
         "strokes": 4,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "花",
         "kunyomi": ["はな"],
         "onyomi": ["カ"],
@@ -299,7 +307,8 @@
         "radical": "艹",
         "strokes": 7,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "貝",
         "kunyomi": ["かい"],
         "onyomi": [],
@@ -323,7 +332,8 @@
         "radical": "貝",
         "strokes": 7,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "学",
         "kunyomi": ["まな.ぶ"],
         "onyomi": ["ガク"],
@@ -376,7 +386,8 @@
                 "meanings": {
                     "es": ["estudiante universitario"]
                 }
-            },{
+            },
+            {
                 "kotoba": "小学生",
                 "reading": "しょう.がく.せい",
                 "meanings": {
@@ -402,7 +413,8 @@
         "radical": "子",
         "strokes": 8,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "気",
         "kunyomi": [],
         "onyomi": ["キ", "ケ"],
@@ -433,7 +445,8 @@
         "radical": "气",
         "strokes": 6,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "九",
         "kunyomi": ["ここの", "ここの.つ"],
         "onyomi": ["キュウ", "ク"],
@@ -478,7 +491,8 @@
         "radical": "乛",
         "strokes": 2,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "休",
         "kunyomi": ["やす.む", "やす.まる", "やす.める"],
         "onyomi": ["キュウ"],
@@ -530,7 +544,8 @@
         "radical": "人",
         "strokes": 6,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "玉",
         "kunyomi": ["たま"],
         "onyomi": ["ギョク"],
@@ -554,7 +569,8 @@
         "radical": "玉",
         "strokes": 5,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "金",
         "kunyomi": ["かね"],
         "onyomi": ["キン", "コン"],
@@ -585,7 +601,8 @@
         "radical": "金",
         "strokes": 8,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "空",
         "kunyomi": ["そら", "あ.く", "あ.ける", "から"],
         "onyomi": ["クウ"],
@@ -630,7 +647,8 @@
         "radical": "穴",
         "strokes": 8,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "月",
         "kunyomi": ["つき"],
         "onyomi": ["ゲツ", "ガツ"],
@@ -668,7 +686,8 @@
         "radical": "月",
         "strokes": 4,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "犬",
         "kunyomi": ["いぬ"],
         "onyomi": ["ケン"],
@@ -692,7 +711,8 @@
         "radical": "犬",
         "strokes": 4,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "見",
         "kunyomi": ["み.る", "み.える", "み.せる"],
         "onyomi": ["ケン"],
@@ -730,7 +750,8 @@
         "radical": "見",
         "strokes": 7,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "五",
         "kunyomi": ["いつ", "いつ.つ"],
         "onyomi": ["ゴ"],
@@ -754,7 +775,8 @@
         "radical": "二",
         "strokes": 4,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "口",
         "kunyomi": ["くち"],
         "onyomi": ["コウ", "ク"],
@@ -792,7 +814,8 @@
         "radical": "口",
         "strokes": 3,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "校",
         "kunyomi": [],
         "onyomi": ["コウ", "キョウ"],
@@ -810,7 +833,8 @@
                 "meanings": {
                     "es": ["portal/portón de la escuela"]
                 }
-            },{
+            },
+            {
                 "kotoba": "学校",
                 "reading": "がっ.こう",
                 "meanings": {
@@ -836,7 +860,8 @@
         "radical": "木",
         "strokes": 10,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "左",
         "kunyomi": ["ひだり"],
         "onyomi": ["サ"],
@@ -867,7 +892,8 @@
         "radical": "工",
         "strokes": 5,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "三",
         "kunyomi": ["み", "み.つ", "みっ.つ"],
         "onyomi": ["サン"],
@@ -891,7 +917,8 @@
         "radical": "一",
         "strokes": 3,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "山",
         "kunyomi": ["やま"],
         "onyomi": ["サン"],
@@ -915,7 +942,8 @@
         "radical": "山",
         "strokes": 3,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "子",
         "kunyomi": ["こ"],
         "onyomi": ["シ", "ス"],
@@ -939,7 +967,8 @@
         "radical": "子",
         "strokes": 3,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "四",
         "kunyomi": ["よ", "よ.つ", "よっ.つ", "よん"],
         "onyomi": ["シ"],
@@ -970,7 +999,8 @@
         "radical": "囗",
         "strokes": 3,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "糸",
         "kunyomi": ["いと"],
         "onyomi": ["シ"],
@@ -1001,7 +1031,8 @@
         "radical": "糸",
         "strokes": 6,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "字",
         "kunyomi": [],
         "onyomi": ["ジ"],
@@ -1025,7 +1056,8 @@
         "radical": "子",
         "strokes": 6,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "耳",
         "kunyomi": ["みみ"],
         "onyomi": ["ジ"],
@@ -1049,7 +1081,8 @@
         "radical": "耳",
         "strokes": 6,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "七",
         "kunyomi": ["なな", "なな.つ", "なの"],
         "onyomi": ["シチ"],
@@ -1073,7 +1106,8 @@
         "radical": "一",
         "strokes": 2,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "車",
         "kunyomi": ["くるま"],
         "onyomi": ["シャ"],
@@ -1104,7 +1138,8 @@
         "radical": "車",
         "strokes": 7,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "手",
         "kunyomi": ["て"],
         "onyomi": ["シュ"],
@@ -1135,7 +1170,8 @@
         "radical": "手",
         "strokes": 4,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "十",
         "kunyomi": ["とお", "と"],
         "onyomi": ["ジュウ", "ジッ"],
@@ -1166,7 +1202,8 @@
         "radical": "十",
         "strokes": 2,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "出",
         "kunyomi": ["で.る", "だ.す"],
         "onyomi": ["シュツ"],
@@ -1204,7 +1241,8 @@
         "radical": "凵",
         "strokes": 5,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "女",
         "kunyomi": ["おんな", "め"],
         "onyomi": ["ジョ", "ニョ", "ニョウ"],
@@ -1242,7 +1280,8 @@
         "radical": "女",
         "strokes": 3,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "小",
         "kunyomi": ["ちい.さい", "こ", "お"],
         "onyomi": ["ショウ"],
@@ -1280,7 +1319,8 @@
         "radical": "小",
         "strokes": 3,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "上",
         "kunyomi": ["うえ", "あ.げる", "あ.がる", "あ.がり", "のぼ.る", "のぼ.り"],
         "onyomi": ["ジョウ"],
@@ -1346,7 +1386,8 @@
         "radical": "一",
         "strokes": 3,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "森",
         "kunyomi": ["もり"],
         "onyomi": ["シン"],
@@ -1377,7 +1418,8 @@
         "radical": "木",
         "strokes": 12,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "人",
         "kunyomi": ["ひと"],
         "onyomi": ["ジン", "ニン"],
@@ -1415,7 +1457,8 @@
         "radical": "人",
         "strokes": 2,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "水",
         "kunyomi": ["みず"],
         "onyomi": ["スイ"],
@@ -1467,7 +1510,8 @@
         "radical": "水",
         "strokes": 4,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "正",
         "kunyomi": ["ただ.しい", "ただ.す", "まさ"],
         "onyomi": ["セイ", "ショウ"],
@@ -1505,7 +1549,8 @@
         "radical": "止",
         "strokes": 5,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "生",
         "kunyomi": ["い.きる", "い.かす", "い.ける", "う.まれる", "うま.れる", "う.む"],
         "onyomi": ["セイ", "ショウ"],
@@ -1543,7 +1588,8 @@
         "radical": "生",
         "strokes": 5,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "青",
         "kunyomi": ["あお", "あお.い"],
         "onyomi": ["セイ", "ショウ"],
@@ -1588,7 +1634,8 @@
         "radical": "青",
         "strokes": 8,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "夕",
         "kunyomi": ["ゆう"],
         "onyomi": ["セキ"],
@@ -1605,7 +1652,8 @@
         "radical": "夕",
         "strokes": 3,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "石",
         "kunyomi": ["いし"],
         "onyomi": ["セキ", "シャク"],
@@ -1629,7 +1677,8 @@
         "radical": "石",
         "strokes": 5,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "赤",
         "kunyomi": ["あか", "あか.い", "あか.らむ", "あか.らめる"],
         "onyomi": ["セキ", "シャク"],
@@ -1674,7 +1723,8 @@
         "radical": "赤",
         "strokes": 7,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "千",
         "kunyomi": ["ち"],
         "onyomi": ["セン"],
@@ -1698,7 +1748,8 @@
         "radical": "十",
         "strokes": 3,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "川",
         "kunyomi": ["かわ"],
         "onyomi": ["セン"],
@@ -1729,7 +1780,8 @@
         "radical": "川",
         "strokes": 3,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "先",
         "kunyomi": ["さき"],
         "onyomi": ["セン"],
@@ -1760,7 +1812,8 @@
         "radical": "儿",
         "strokes": 6,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "早",
         "kunyomi": ["はや.い", "はや", "はや.まる", "はや.める"],
         "onyomi": ["ソウ", "サッ"],
@@ -1791,7 +1844,8 @@
         "radical": "日",
         "strokes": 6,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "草",
         "kunyomi": ["くさ"],
         "onyomi": ["ソウ"],
@@ -1822,7 +1876,8 @@
         "radical": "艹",
         "strokes": 9,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "足",
         "kunyomi": ["あし", "た.りる", "た.る", "た.す"],
         "onyomi": ["ソク"],
@@ -1867,7 +1922,8 @@
         "radical": "足",
         "strokes": 7,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "村",
         "kunyomi": ["むら"],
         "onyomi": ["ソン"],
@@ -1891,7 +1947,8 @@
         "radical": "木",
         "strokes": 7,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "大",
         "kunyomi": ["おお", "おお.きい"],
         "onyomi": ["ダイ", "タイ"],
@@ -1929,7 +1986,8 @@
         "radical": "大",
         "strokes": 3,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "男",
         "kunyomi": ["おとこ"],
         "onyomi": ["ダン", "ナン"],
@@ -1960,7 +2018,8 @@
         "radical": "田",
         "strokes": 7,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "竹",
         "kunyomi": ["たけ"],
         "onyomi": ["チク"],
@@ -1991,7 +2050,8 @@
         "radical": "竹",
         "strokes": 6,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "中",
         "kunyomi": ["なか"],
         "onyomi": ["チュウ"],
@@ -2022,7 +2082,8 @@
         "radical": "丨",
         "strokes": 4,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "虫",
         "kunyomi": ["むし"],
         "onyomi": ["チュウ"],
@@ -2046,7 +2107,8 @@
         "radical": "虫",
         "strokes": 6,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "町",
         "kunyomi": ["まち"],
         "onyomi": ["チョウ"],
@@ -2070,7 +2132,8 @@
         "radical": "田",
         "strokes": 7,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "天",
         "kunyomi": ["あめ", "あま"],
         "onyomi": ["テン"],
@@ -2094,7 +2157,8 @@
         "radical": "大",
         "strokes": 4,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "田",
         "kunyomi": ["た"],
         "onyomi": ["デン"],
@@ -2111,7 +2175,8 @@
         "radical": "田",
         "strokes": 5,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "土",
         "kunyomi": ["つち"],
         "onyomi": ["ド", "ト"],
@@ -2135,7 +2200,8 @@
         "radical": "土",
         "strokes": 3,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "二",
         "kunyomi": ["ふた"],
         "onyomi": ["に"],
@@ -2166,7 +2232,8 @@
         "radical": "二",
         "strokes": 2,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "日",
         "kunyomi": ["ひ", "か"],
         "onyomi": ["ニチ", "ジツ"],
@@ -2197,7 +2264,8 @@
         "radical": "日",
         "strokes": 4,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "入",
         "kunyomi": ["い.る", "い.れる", "はい.る"],
         "onyomi": ["ニュウ", "ジュ"],
@@ -2228,7 +2296,8 @@
         "radical": "入",
         "strokes": 2,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "年",
         "kunyomi": ["とし"],
         "onyomi": ["ネン"],
@@ -2266,7 +2335,8 @@
         "radical": "干",
         "strokes": 6,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "白",
         "kunyomi": ["しろ", "しろ.い"],
         "onyomi": ["ハク", "ビャク"],
@@ -2304,7 +2374,8 @@
         "radical": "白",
         "strokes": 5,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "八",
         "kunyomi": ["や", "よう"],
         "onyomi": ["ハチ"],
@@ -2342,7 +2413,8 @@
         "radical": "八",
         "strokes": 2,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "百",
         "kunyomi": [],
         "onyomi": ["ヒャク"],
@@ -2373,7 +2445,8 @@
         "radical": "白",
         "strokes": 6,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "文",
         "kunyomi": [],
         "onyomi": ["ブン", "モン"],
@@ -2418,7 +2491,8 @@
         "radical": "文",
         "strokes": 4,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "木",
         "kunyomi": ["き", "こ"],
         "onyomi": ["ボク", "モク"],
@@ -2456,7 +2530,8 @@
         "radical": "木",
         "strokes": 4,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "本",
         "kunyomi": ["もと"],
         "onyomi": ["ホン"],
@@ -2494,7 +2569,8 @@
         "radical": "木",
         "strokes": 5,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "名",
         "kunyomi": ["な"],
         "onyomi": ["メイ", "ミョウ"],
@@ -2532,7 +2608,8 @@
         "radical": "口",
         "strokes": 6,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "目",
         "kunyomi": ["め"],
         "onyomi": ["モク", "ボク"],
@@ -2563,7 +2640,8 @@
         "radical": "目",
         "strokes": 5,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "立",
         "kunyomi": ["た.つ", "た.てる"],
         "onyomi": ["リツ", "リュウ"],
@@ -2587,7 +2665,8 @@
         "radical": "立",
         "strokes": 5,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "力",
         "kunyomi": ["ちから"],
         "onyomi": ["リョク", "リキ"],
@@ -2618,7 +2697,8 @@
         "radical": "力",
         "strokes": 2,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "林",
         "kunyomi": ["はやし"],
         "onyomi": ["リン"],
@@ -2649,7 +2729,8 @@
         "radical": "木",
         "strokes": 4,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "六",
         "kunyomi": ["む.つ"],
         "onyomi": ["ロク"],
@@ -2673,7 +2754,8 @@
         "radical": "八",
         "strokes": 4,
         "lvl": "小学校の１年"
-    },{
+    },
+    {
         "ideogram": "引",
         "kunyomi": ["ひ.く", "ひ.ける"],
         "onyomi": ["イン"],
@@ -2697,7 +2779,8 @@
         "radical": "弓",
         "strokes": 4,
         "lvl": "小学校の２年"
-    },{
+    },
+    {
         "ideogram": "羽",
         "kunyomi": ["は", "はね"],
         "onyomi": ["ウ"],
@@ -2728,7 +2811,8 @@
         "radical": "羽",
         "strokes": 6,
         "lvl": "小学校の２年"
-    },{
+    },
+    {
         "ideogram": "雲",
         "kunyomi": ["くも", "はね"],
         "onyomi": ["ウン"],
@@ -2773,7 +2857,8 @@
         "radical": "雨",
         "strokes": 12,
         "lvl": "小学校の２年"
-    },{
+    },
+    {
         "ideogram": "園",
         "kunyomi": ["その"],
         "onyomi": ["エン"],
@@ -2818,7 +2903,8 @@
         "radical": "囗",
         "strokes": 13,
         "lvl": "小学校の２年"
-    },{
+    },
+    {
         "ideogram": "遠",
         "kunyomi": ["とお.い"],
         "onyomi": ["エン", "オン"],
@@ -2856,7 +2942,8 @@
         "radical": "辵",
         "strokes": 13,
         "lvl": "小学校の２年"
-    },{
+    },
+    {
         "ideogram": "何",
         "kunyomi": ["なに", "なん"],
         "onyomi": ["カ"],
@@ -2880,7 +2967,8 @@
         "radical": "人",
         "strokes": 7,
         "lvl": "小学校の２年"
-    },{
+    },
+    {
         "ideogram": "科",
         "kunyomi": [],
         "onyomi": ["カ"],
@@ -2918,7 +3006,8 @@
         "radical": "禾",
         "strokes": 9,
         "lvl": "小学校の２年"
-    },{
+    },
+    {
         "ideogram": "夏",
         "kunyomi": ["なつ"],
         "onyomi": ["カ", "ガ", "ゲ"],
@@ -2949,7 +3038,8 @@
         "radical": "夊",
         "strokes": 10,
         "lvl": "小学校の２年"
-    },{
+    },
+    {
         "ideogram": "家",
         "kunyomi": ["いえ", "や", "うち"],
         "onyomi": ["カ", "ケ"],
@@ -2994,7 +3084,8 @@
         "radical": "宀",
         "strokes": 10,
         "lvl": "小学校の２年"
-    },{
+    },
+    {
         "ideogram": "歌",
         "kunyomi": ["うた", "うた.う"],
         "onyomi": ["カ"],
@@ -3032,7 +3123,8 @@
         "radical": "欠",
         "strokes": 14,
         "lvl": "小学校の２年"
-    },{
+    },
+    {
         "ideogram": "画",
         "kunyomi": [],
         "onyomi": ["ガ", "カク"],
@@ -3070,7 +3162,8 @@
         "radical": "田",
         "strokes": 8,
         "lvl": "小学校の２年"
-    },{
+    },
+    {
         "ideogram": "回",
         "kunyomi": ["まわ.る", "まわ.す"],
         "onyomi": ["カイ"],
@@ -3108,7 +3201,8 @@
         "radical": "囗",
         "strokes": 6,
         "lvl": "小学校の２年"
-    },{
+    },
+    {
         "ideogram": "会",
         "kunyomi": ["あ.う", "まわ.す"],
         "onyomi": ["カイ"],
@@ -3146,7 +3240,8 @@
         "radical": "人",
         "strokes": 6,
         "lvl": "小学校の２年"
-    },{
+    },
+    {
         "ideogram": "海",
         "kunyomi": ["うみ"],
         "onyomi": ["カイ"],
@@ -3191,7 +3286,8 @@
         "radical": "水",
         "strokes": 9,
         "lvl": "小学校の２年"
-    },{
+    },
+    {
         "ideogram": "絵",
         "kunyomi": [],
         "onyomi": ["カイ", "エ"],
@@ -3222,7 +3318,8 @@
         "radical": "糸",
         "strokes": 12,
         "lvl": "小学校の２年"
-    },{
+    },
+    {
         "ideogram": "外",
         "kunyomi": ["そと", "ほか", "はず.す", "はず.れる"],
         "onyomi": ["ガイ"],
@@ -3274,7 +3371,8 @@
         "radical": "夕",
         "strokes": 5,
         "lvl": "小学校の２年"
-    },{
+    },
+    {
         "ideogram": "角",
         "kunyomi": ["かど", "つの"],
         "onyomi": ["カク"],
@@ -3319,7 +3417,8 @@
         "radical": "角",
         "strokes": 7,
         "lvl": "小学校の２年"
-    },{
+    },
+    {
         "ideogram": "楽",
         "kunyomi": ["たの.しい", "たの.しむ"],
         "onyomi": ["ガク", "ラク"],
@@ -3364,7 +3463,8 @@
         "radical": "木",
         "strokes": 13,
         "lvl": "小学校の２年"
-    },{
+    },
+    {
         "ideogram": "活",
         "kunyomi": [],
         "onyomi": ["カツ"],
@@ -3395,7 +3495,8 @@
         "radical": "水",
         "strokes": 9,
         "lvl": "小学校の２年"
-    },{
+    },
+    {
         "ideogram": "間",
         "kunyomi": ["あいだ", "ま"],
         "onyomi": ["カン", "ケン"],
@@ -3433,7 +3534,8 @@
         "radical": "門",
         "strokes": 12,
         "lvl": "小学校の２年"
-    },{
+    },
+    {
         "ideogram": "丸",
         "kunyomi": ["まる", "まる.める", "まる.い"],
         "onyomi": ["ガン"],
@@ -3471,7 +3573,8 @@
         "radical": "丶",
         "strokes": 3,
         "lvl": "小学校の２年"
-    },{
+    },
+    {
         "ideogram": "岩",
         "kunyomi": ["いわ"],
         "onyomi": ["ガン"],
@@ -3509,7 +3612,8 @@
         "radical": "山",
         "strokes": 8,
         "lvl": "小学校の２年"
-    },{
+    },
+    {
         "ideogram": "顔",
         "kunyomi": ["かお"],
         "onyomi": ["ガン"],
@@ -3533,7 +3637,8 @@
         "radical": "顏",
         "strokes": 18,
         "lvl": "小学校の２年"
-    },{
+    },
+    {
         "ideogram": "汽",
         "kunyomi": [],
         "onyomi": ["キ"],
@@ -3557,7 +3662,8 @@
         "radical": "水",
         "strokes": 7,
         "lvl": "小学校の２年"
-    },{
+    },
+    {
         "ideogram": "記",
         "kunyomi": ["しる.す"],
         "onyomi": ["キ"],
@@ -3602,7 +3708,8 @@
         "radical": "言",
         "strokes": 10,
         "lvl": "小学校の２年"
-    },{
+    },
+    {
         "ideogram": "帰",
         "kunyomi": ["かえ.る", "かえ.す"],
         "onyomi": ["キ"],
@@ -3640,7 +3747,8 @@
         "radical": "巾",
         "strokes": 10,
         "lvl": "小学校の２年"
-    },{
+    },
+    {
         "ideogram": "弓",
         "kunyomi": ["ゆみ"],
         "onyomi": ["キュウ"],
@@ -3678,7 +3786,8 @@
         "radical": "弓",
         "strokes": 3,
         "lvl": "小学校の２年"
-    },{
+    },
+    {
         "ideogram": "牛",
         "kunyomi": ["うし"],
         "onyomi": ["ギュウ"],
@@ -3709,7 +3818,8 @@
         "radical": "牛",
         "strokes": 4,
         "lvl": "小学校の２年"
-    },{
+    },
+    {
         "ideogram": "魚",
         "kunyomi": ["さかな", "うお"],
         "onyomi": ["ギョ"],
@@ -3740,7 +3850,8 @@
         "radical": "魚",
         "strokes": 11,
         "lvl": "小学校の２年"
-    },{
+    },
+    {
         "ideogram": "京",
         "kunyomi": [],
         "onyomi": ["キョウ", "ケイ", "キン"],
@@ -3771,7 +3882,8 @@
         "radical": "亰",
         "strokes": 8,
         "lvl": "小学校の２年"
-    },{
+    },
+    {
         "ideogram": "強",
         "kunyomi": ["つよ.い", "つよ.まる", "つよ.める"],
         "onyomi": ["キョウ", "ゴウ"],
@@ -3816,7 +3928,8 @@
         "radical": "弓",
         "strokes": 11,
         "lvl": "小学校の２年"
-    },{
+    },
+    {
         "ideogram": "教",
         "kunyomi": ["おし.える", "おそ.わる"],
         "onyomi": ["キョウ"],
@@ -3854,7 +3967,8 @@
         "radical": "攴",
         "strokes": 11,
         "lvl": "小学校の２年"
-    },{
+    },
+    {
         "ideogram": "近",
         "kunyomi": ["ちか.い"],
         "onyomi": ["キン"],
@@ -3892,7 +4006,8 @@
         "radical": "辵",
         "strokes": 7,
         "lvl": "小学校の２年"
-    },{
+    },
+    {
         "ideogram": "兄",
         "kunyomi": ["あに"],
         "onyomi": ["ケイ", "キョウ"],
@@ -3923,7 +4038,8 @@
         "radical": "儿",
         "strokes": 5,
         "lvl": "小学校の２年"
-    },{
+    },
+    {
         "ideogram": "形",
         "kunyomi": ["かた", "かたち"],
         "onyomi": ["ケイ", "ギョウ"],
@@ -3961,7 +4077,8 @@
         "radical": "彡",
         "strokes": 7,
         "lvl": "小学校の２年"
-    },{
+    },
+    {
         "ideogram": "計",
         "kunyomi": ["はか.る", "はか.らう"],
         "onyomi": ["ケイ"],
@@ -3999,7 +4116,8 @@
         "radical": "言",
         "strokes": 9,
         "lvl": "小学校の２年"
-    },{
+    },
+    {
         "ideogram": "元",
         "kunyomi": ["もと"],
         "onyomi": ["ゲン", "ガン"],
@@ -4030,7 +4148,8 @@
         "radical": "儿",
         "strokes": 4,
         "lvl": "小学校の２年"
-    },{
+    },
+    {
         "ideogram": "言",
         "kunyomi": ["い.う", "こと"],
         "onyomi": ["ゲン", "ゴン"],
@@ -4068,7 +4187,8 @@
         "radical": "言",
         "strokes": 7,
         "lvl": "小学校の２年"
-    },{
+    },
+    {
         "ideogram": "原",
         "kunyomi": ["はら"],
         "onyomi": ["ゲン"],
@@ -4099,7 +4219,8 @@
         "radical": "厂",
         "strokes": 10,
         "lvl": "小学校の２年"
-    },{
+    },
+    {
         "ideogram": "戸",
         "kunyomi": ["と"],
         "onyomi": ["コ"],
@@ -4123,7 +4244,8 @@
         "radical": "戶",
         "strokes": 4,
         "lvl": "小学校の２年"
-    },{
+    },
+    {
         "ideogram": "古",
         "kunyomi": ["ふる.い", "ふる.す"],
         "onyomi": ["コ"],
@@ -4168,7 +4290,8 @@
         "radical": "口",
         "strokes": 5,
         "lvl": "小学校の２年"
-    },{
+    },
+    {
         "ideogram": "午",
         "kunyomi": [],
         "onyomi": ["ゴ"],
@@ -4192,7 +4315,8 @@
         "radical": "十",
         "strokes": 4,
         "lvl": "小学校の２年"
-    },{
+    },
+    {
         "ideogram": "後",
         "kunyomi": ["のち", "あと", "うし.ろ"],
         "onyomi": ["ゴ", "コウ"],
@@ -4223,7 +4347,8 @@
         "radical": "彳",
         "strokes": 9,
         "lvl": "小学校の２年"
-    },{
+    },
+    {
         "ideogram": "語",
         "kunyomi": ["かた.る", "かた.らう"],
         "onyomi": ["ゴ"],
@@ -4289,7 +4414,8 @@
         "radical": "言",
         "strokes": 14,
         "lvl": "小学校の２年"
-    },{
+    },
+    {
         "ideogram": "工",
         "kunyomi": [],
         "onyomi": ["コウ", "ク"],
@@ -4320,7 +4446,8 @@
         "radical": "工",
         "strokes": 3,
         "lvl": "小学校の２年"
-    },{
+    },
+    {
         "ideogram": "公",
         "kunyomi": ["おおやけ"],
         "onyomi": ["コウ", "ク"],
@@ -4358,7 +4485,8 @@
         "radical": "八",
         "strokes": 4,
         "lvl": "小学校の２年"
-    },{
+    },
+    {
         "ideogram": "広",
         "kunyomi": ["ひろ.い", "ひろ.まる", "ひろ.める", "ひろ.がる", "ひろ.げる"],
         "onyomi": ["コウ"],
@@ -4417,7 +4545,8 @@
         "radical": "广",
         "strokes": 5,
         "lvl": "小学校の２年"
-    },{
+    },
+    {
         "ideogram": "交",
         "kunyomi": ["まじ.わる", "まじ.える", "ま.じる", "ま.ざる", "ま.ぜる", "か.わす"],
         "onyomi": ["コウ"],
@@ -4462,7 +4591,8 @@
         "radical": "亠",
         "strokes": 6,
         "lvl": "小学校の２年"
-    },{
+    },
+    {
         "ideogram": "光",
         "kunyomi": ["ひか.る", "ひかり"],
         "onyomi": ["コウ"],
@@ -4514,7 +4644,8 @@
         "radical": "儿",
         "strokes": 6,
         "lvl": "小学校の２年"
-    },{
+    },
+    {
         "ideogram": "考",
         "kunyomi": ["かんが.える", "かんが.え"],
         "onyomi": ["コウ"],
@@ -4552,7 +4683,8 @@
         "radical": "老",
         "strokes": 6,
         "lvl": "小学校の２年"
-    },{
+    },
+    {
         "ideogram": "行",
         "kunyomi": ["い.く", "ゆ.く", "おこな.う"],
         "onyomi": ["コウ", "ギョウ"],
@@ -4583,7 +4715,8 @@
         "radical": "行",
         "strokes": 6,
         "lvl": "小学校の２年"
-    },{
+    },
+    {
         "ideogram": "高",
         "kunyomi": ["たか.い", "たか", "たか.まる", "たか.める"],
         "onyomi": ["コウ"],
@@ -4679,7 +4812,8 @@
         "radical": "夂",
         "strokes": 9,
         "lvl": "小学校の４年"
-    },{
+    },
+    {
         "ideogram": "便",
         "kunyomi": ["たよ.り"],
         "onyomi": ["ベン", "ビン"],
@@ -4724,7 +4858,8 @@
         "radical": "人",
         "strokes": 9,
         "lvl": "小学校の４年"
-    },{
+    },
+    {
         "ideogram": "包",
         "kunyomi": ["つつ.む"],
         "onyomi": ["ホウ"],
@@ -4755,7 +4890,8 @@
         "radical": "勹",
         "strokes": 5,
         "lvl": "小学校の４年"
-    },{
+    },
+    {
         "ideogram": "法",
         "kunyomi": [],
         "onyomi": ["ホウ"],
@@ -4779,7 +4915,8 @@
         "radical": "水",
         "strokes": 8,
         "lvl": "小学校の４年"
-    },{
+    },
+    {
         "ideogram": "望",
         "kunyomi": ["のぞ.む"],
         "onyomi": ["ボウ"],
@@ -4817,7 +4954,8 @@
         "radical": "月",
         "strokes": 11,
         "lvl": "小学校の４年"
-    },{
+    },
+    {
         "ideogram": "牧",
         "kunyomi": ["まき"],
         "onyomi": ["ボク"],
@@ -4848,7 +4986,8 @@
         "radical": "牛",
         "strokes": 8,
         "lvl": "小学校の４年"
-    },{
+    },
+    {
         "ideogram": "末",
         "kunyomi": ["すえ"],
         "onyomi": ["マツ"],
@@ -4879,7 +5018,8 @@
         "radical": "木",
         "strokes": 5,
         "lvl": "小学校の４年"
-    },{
+    },
+    {
         "ideogram": "満",
         "kunyomi": ["み.ちる", "み.たす"],
         "onyomi": ["マン"],
@@ -4924,7 +5064,8 @@
         "radical": "水",
         "strokes": 12,
         "lvl": "小学校の４年"
-    },{
+    },
+    {
         "ideogram": "未",
         "kunyomi": [],
         "onyomi": ["ミ"],
@@ -4955,7 +5096,8 @@
         "radical": "木",
         "strokes": 5,
         "lvl": "小学校の４年"
-    },{
+    },
+    {
         "ideogram": "脈",
         "kunyomi": [],
         "onyomi": ["ミャク"],
@@ -4979,7 +5121,8 @@
         "radical": "肉",
         "strokes": 10,
         "lvl": "小学校の４年"
-    },{
+    },
+    {
         "ideogram": "民",
         "kunyomi": ["たみ"],
         "onyomi": ["ミン"],
@@ -5024,7 +5167,8 @@
         "radical": "氏",
         "strokes": 5,
         "lvl": "小学校の４年"
-    },{
+    },
+    {
         "ideogram": "無",
         "kunyomi": ["な.い"],
         "onyomi": ["ム", "ブ"],
@@ -5062,7 +5206,8 @@
         "radical": "火",
         "strokes": 12,
         "lvl": "小学校の４年"
-    },{
+    },
+    {
         "ideogram": "約",
         "kunyomi": ["つづ.まる", "つづ.める", "つづま.やか"],
         "onyomi": ["ヤク"],
@@ -5107,7 +5252,8 @@
         "radical": "糸",
         "strokes": 9,
         "lvl": "小学校の４年"
-    },{
+    },
+    {
         "ideogram": "勇",
         "kunyomi": ["いさ.む"],
         "onyomi": ["ユウ"],
@@ -5138,7 +5284,8 @@
         "radical": "力",
         "strokes": 9,
         "lvl": "小学校の４年"
-    },{
+    },
+    {
         "ideogram": "要",
         "kunyomi": ["い.る"],
         "onyomi": ["ヨウ"],
@@ -5183,7 +5330,8 @@
         "radical": "西",
         "strokes": 9,
         "lvl": "小学校の４年"
-    },{
+    },
+    {
         "ideogram": "養",
         "kunyomi": ["やしな.う"],
         "onyomi": ["ヨウ"],
@@ -5214,7 +5362,8 @@
         "radical": "食",
         "strokes": 15,
         "lvl": "小学校の４年"
-    },{
+    },
+    {
         "ideogram": "浴",
         "kunyomi": ["あ.びる", "あ.びせる"],
         "onyomi": ["ヨウ"],
@@ -5245,7 +5394,8 @@
         "radical": "水",
         "strokes": 10,
         "lvl": "小学校の４年"
-    },{
+    },
+    {
         "ideogram": "利",
         "kunyomi": ["き.く"],
         "onyomi": ["リ"],
