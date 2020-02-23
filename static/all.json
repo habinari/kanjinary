@@ -3335,14 +3335,14 @@
                 "kotoba": "外人",
                 "reading": "がい.じん",
                 "meanings": {
-                    "es": ["extrangero (persona)"]
+                    "es": ["extranjero (persona)"]
                 }
             },
             {
                 "kotoba": "外国",
                 "reading": "がい.こく",
                 "meanings": {
-                    "es": ["país extrangero"]
+                    "es": ["país extranjero"]
                 }
             },
             {
@@ -4849,6 +4849,45 @@
         "parts": ["个", "ハ", "口", "谷"],
         "radical": "谷",
         "strokes": 7,
+        "lvl": "小学校の２年"
+    },
+    {
+        "ideogram": "国",
+        "kunyomi": ["くに"],
+        "onyomi": ["コク"],
+        "words": [
+            {
+                "kotoba": "国",
+                "reading": "くに",
+                "meanings": {
+                    "es": ["país", "estado", "nación"]
+                }
+            },
+            {
+                "kotoba": "国人",
+                "reading": "こく.じん",
+                "meanings": {
+                    "es": ["barranco", "escote"]
+                }
+            },
+            {
+                "kotoba": "国語",
+                "reading": "こく.ご",
+                "meanings": {
+                    "es": ["idioma nacional"]
+                }
+            },
+            {
+                "kotoba": "外国人",
+                "reading": "がい.こく.じん",
+                "meanings": {
+                    "es": ["extranjero (persona)"]
+                }
+            }
+        ],
+        "parts": ["丶", "囗", "王"],
+        "radical": "囗",
+        "strokes": 8,
         "lvl": "小学校の２年"
     },
 
