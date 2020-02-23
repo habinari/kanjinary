@@ -4819,6 +4819,38 @@
         "strokes": 6,
         "lvl": "小学校の２年"
     },
+    {
+        "ideogram": "谷",
+        "kunyomi": ["たに"],
+        "onyomi": ["コク"],
+        "words": [
+            {
+                "kotoba": "谷",
+                "reading": "たに",
+                "meanings": {
+                    "es": ["valle"]
+                }
+            },
+            {
+                "kotoba": "谷間",
+                "reading": "たに.ま",
+                "meanings": {
+                    "es": ["barranco", "escote"]
+                }
+            },
+            {
+                "kotoba": "谷川",
+                "reading": "たに.がわ",
+                "meanings": {
+                    "es": ["río de montaña"]
+                }
+            }
+        ],
+        "parts": ["个", "ハ", "口", "谷"],
+        "radical": "谷",
+        "strokes": 7,
+        "lvl": "小学校の２年"
+    },
 
 
 
