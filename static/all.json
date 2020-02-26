@@ -4961,6 +4961,24 @@
         "strokes": 4,
         "lvl": "小学校の２年"
     },
+    {
+        "ideogram": "才",
+        "kunyomi": [],
+        "onyomi": ["サイ"],
+        "words": [
+            {
+                "kotoba": "天才",
+                "reading": "てん.さい",
+                "meanings": {
+                    "es": ["talento"]
+                }
+            }
+        ],
+        "parts": ["一", "ノ", "亅"],
+        "radical": "手",
+        "strokes": 3,
+        "lvl": "小学校の２年"
+    },
 
 
 
