@@ -5011,6 +5011,31 @@
         "strokes": 11,
         "lvl": "小学校の２年"
     },
+    {
+        "ideogram": "作",
+        "kunyomi": ["つく.る"],
+        "onyomi": ["サク", "サ"],
+        "words": [
+            {
+                "kotoba": "作る",
+                "reading": "つく.る",
+                "meanings": {
+                    "es": ["fabricar", "elaborar", "preparar (comida)", "crear", "producir"]
+                }
+            },
+            {
+                "kotoba": "作文",
+                "reading": "さく.ぶん",
+                "meanings": {
+                    "es": ["redacción", "composición", "prosa"]
+                }
+            }
+        ],
+        "parts": ["一", "｜", "ノ", "化", "乞"],
+        "radical": "人",
+        "strokes": 7,
+        "lvl": "小学校の２年"
+    },
 
 
 
