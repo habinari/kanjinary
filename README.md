@@ -40,7 +40,7 @@ I use [SemVer](http://semver.org/) for versioning. For the versions available, s
     <tr>
         <td>
             <a href="https://github.com/habinari"><img src="https://avatars3.githubusercontent.com/u/19194763?s=460&v=4"
-                    width="100px;" height="100px;" alt="habinari" /><br /><sub><b>habinari</b></sub></a>
+                    width="100px;" height="100px;" alt="habinari" /><br /><sub><b>Javier Parada</b></sub></a>
                 <br/>
                 <a href="#" title="Ideas">🤔</a>
                 <a href="#" title="Code">💻</a>
