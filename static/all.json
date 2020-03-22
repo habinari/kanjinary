@@ -5238,7 +5238,7 @@
             },
             {
                 "kotoba": "思い出",
-                "reading": " おも.い.で",
+                "reading": "おも.い.で",
                 "meanings": {
                     "es": ["recuerdo"]
                 }
@@ -5249,6 +5249,59 @@
         "strokes": 8,
         "lvl": "小学校の２年"
     },
+    {
+        "ideogram": "紙",
+        "kunyomi": ["かみ"],
+        "onyomi": ["シ"],
+        "words": [
+            {
+                "kotoba": "紙",
+                "reading": "かみ",
+                "meanings": {
+                    "es": ["papel"]
+                }
+            },
+            {
+                "kotoba": "手紙",
+                "reading": "て.がみ",
+                "meanings": {
+                    "es": ["carta"]
+                }
+            },
+            {
+                "kotoba": "表紙",
+                "reading": "ひょう.し",
+                "meanings": {
+                    "es": ["portada (de un libro, una revista etc.)"]
+                }
+            },
+            {
+                "kotoba": "画用紙",
+                "reading": "が.よう.し",
+                "meanings": {
+                    "es": ["papel para dibujar"]
+                }
+            },
+            {
+                "kotoba": "紙袋",
+                "reading": "かみ.ぶくろ",
+                "meanings": {
+                    "es": ["bolsa de papel"]
+                }
+            }
+        ],
+        "parts": ["小", "幺", "氏", "糸"],
+        "radical": "糸",
+        "strokes": 10,
+        "lvl": "小学校の２年"
+    },
+
+
+
+
+
+
+
 
 
 
