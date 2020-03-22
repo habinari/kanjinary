@@ -5380,6 +5380,52 @@
         "strokes": 6,
         "lvl": "小学校の２年"
     },
+    {
+        "ideogram": "時",
+        "kunyomi": ["とき"],
+        "onyomi": ["ジ"],
+        "words": [
+            {
+                "kotoba": "時",
+                "reading": "とき",
+                "meanings": {
+                    "es": ["tiempo", "momento"]
+                }
+            },
+            {
+                "kotoba": "時折",
+                "reading": "とき.おり",
+                "meanings": {
+                    "es": ["a veces"]
+                }
+            },
+            {
+                "kotoba": "時間",
+                "reading": "じ.かん",
+                "meanings": {
+                    "es": ["tiempo (hora)", "hora"]
+                }
+            },
+            {
+                "kotoba": "時刻",
+                "reading": "じ.こく",
+                "meanings": {
+                    "es": ["instante", "momento"]
+                }
+            },
+            {
+                "kotoba": "時代",
+                "reading": "じ.だい",
+                "meanings": {
+                    "es": ["periodo", "época", "era"]
+                }
+            }
+        ],
+        "parts": ["土", "寸", "日"],
+        "radical": "日",
+        "strokes": 10,
+        "lvl": "小学校の２年"
+    },
 
 
 
