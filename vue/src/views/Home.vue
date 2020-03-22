@@ -42,21 +42,21 @@ export default {
           title: 'Sobre mi',
           content: 'Soy un Ingeniero de Software y estudiante de japonés. Este proyecto está hecho para facilitar el estudio de kanjis mediante información y recursos.',
           link: 'Saber más',
-          href: 'https://github.com/kabi404',
+          href: 'https://github.com/habinari',
           icon: 'coffee'
         },
         {
           title: 'Software libre',
           content: 'El proyecto está protegido bajo la licencia de software libre MIT. Cualquier persona puede colaborar en el proyecto.',
           link: 'Ver licencia',
-          href: 'https://github.com/kabi404/kanjinary/blob/master/LICENSE',
+          href: 'https://github.com/habinari/kanjinary/blob/master/LICENSE',
           icon: 'unlock-alt'
         },
         {
           title: 'El proyecto',
           content: 'Todo el código y datos del proyecto está disponible en GitHub. Para participar tan sólo haz alguna modificación del código interesante o añade kanjis que aún no estén incluidos.',
           link: 'Ir al proyecto',
-          href: 'https://github.com/kabi404/kanjinary',
+          href: 'https://github.com/habinari/kanjinary',
           icon: 'users'
         }
       ]

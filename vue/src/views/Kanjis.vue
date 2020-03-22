@@ -12,7 +12,7 @@
 
 import Kanji from '@/components/Kanji.vue'
 
-const KANJI_PATH = 'https://www.kabi404.dev/kanjinary/static/kanji/'
+const KANJI_PATH = 'https://www.javierparada.dev/kanjinary/static/kanji/'
 
 export default {
     name: 'kanjis',
