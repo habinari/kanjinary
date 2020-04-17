@@ -13,7 +13,7 @@ jobs:
     - name: Install dependencies
       run: npm install --prefix vue
     - name: build vue project
-      run: npm build --prefix vue
+      run: npm run-script build --prefix vue
     - name: process kanjis
       run: node kanji-gen
 
