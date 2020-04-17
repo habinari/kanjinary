@@ -5713,6 +5713,38 @@
         "strokes": 9,
         "lvl": "小学校の２年"
     },
+    {
+        "ideogram": "書",
+        "kunyomi": ["か.く"],
+        "onyomi": ["ショ"],
+        "words": [
+            {
+                "kotoba": "書く",
+                "reading": "か.く",
+                "meanings": {
+                    "es": ["escribir"]
+                }
+            },
+            {
+                "kotoba": "図書館",
+                "reading": "と.しょ.かん",
+                "meanings": {
+                    "es": ["biblioteca"]
+                }
+            },
+            {
+                "kotoba": "教科書",
+                "reading": "きょう.か.しょ",
+                "meanings": {
+                    "es": ["cuaderno", "cuaderno escolar"]
+                }
+            }
+        ],
+        "parts": ["曰", "聿"],
+        "radical": "曰",
+        "strokes": 10,
+        "lvl": "小学校の２年"
+    },
 
 
 
