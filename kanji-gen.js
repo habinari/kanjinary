@@ -29,6 +29,7 @@ const saveJsonData = (path, fileName, object) => {
 ------------------------------------------------------
 */
 
+const ROOT_PATH = './dist'
 const BASE_PATH = './dist/static/'
 
 const KANJI_PATH = BASE_PATH + 'kanji/'
@@ -43,6 +44,7 @@ const ON_PATH = BASE_PATH + 'onyomi/'
 */
 
 const allKanjis = require('./static/all.json')
+createDirectoryIfNotExist(ROOT_PATH)
 createDirectoryIfNotExist(BASE_PATH)
 
 // Save all kanji
