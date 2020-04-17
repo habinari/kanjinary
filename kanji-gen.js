@@ -29,7 +29,7 @@ const saveJsonData = (path, fileName, object) => {
 ------------------------------------------------------
 */
 
-const BASE_PATH = './docs/static/'
+const BASE_PATH = './dist/static/'
 
 const KANJI_PATH = BASE_PATH + 'kanji/'
 const LEVEL_PATH = BASE_PATH + 'lvl/'
