@@ -1,5 +1,5 @@
 
-name: Deploy
+name: Build and Deploy
 on:
   push:
     branches:
@@ -16,7 +16,6 @@ jobs:
       run: npm run-script build --prefix vue
     - name: process kanjis
       run: node kanji-gen
-
     - name: Deploy
       uses: JamesIves/github-pages-deploy-action@releases/v3
       with:
