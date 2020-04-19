@@ -5816,6 +5816,39 @@
         "strokes": 12,
         "lvl": "小学校の２年"
     },
+    {
+        "ideogram": "色",
+        "kunyomi": ["いろ"],
+        "onyomi": ["ショク", "シキ"],
+        "words": [
+            {
+                "kotoba": "色",
+                "reading": "いろ",
+                "meanings": {
+                    "es": ["color"]
+                }
+            },
+            {
+                "kotoba": "顔色",
+                "reading": "かお.いろ",
+                "meanings": {
+                    "es": ["tez", "color de piel"]
+                }
+            },
+            {
+                "kotoba": "音色",
+                "reading": "ね.いろ",
+                "meanings": {
+                    "es": ["tono del color", "timbre"]
+                }
+            }
+        ],
+        "parts": ["勹", "巴", "色"],
+        "radical": "色",
+        "strokes": 6,
+        "lvl": "小学校の２年"
+    },
+
 
 
 
