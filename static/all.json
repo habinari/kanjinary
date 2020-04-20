@@ -6061,6 +6061,52 @@
         "strokes": 13,
         "lvl": "小学校の２年"
     },
+    {
+        "ideogram": "西",
+        "kunyomi": ["にし"],
+        "onyomi": ["セイ", "サイ"],
+        "words": [
+            {
+                "kotoba": "西",
+                "reading": "にし",
+                "meanings": {
+                    "es": ["oeste"]
+                }
+            },
+            {
+                "kotoba": "南西",
+                "reading": "なん.せい",
+                "meanings": {
+                    "es": ["sudoeste"]
+                }
+            },
+            {
+                "kotoba": "大西洋",
+                "reading": "たい.せい.よう",
+                "meanings": {
+                    "es": ["océano atlántico"]
+                }
+            },
+            {
+                "kotoba": "北西",
+                "reading": "ほく.せい",
+                "meanings": {
+                    "es": ["noroeste"]
+                }
+            },
+            {
+                "kotoba": "関西",
+                "reading": "かん.さい",
+                "meanings": {
+                    "es": ["kansai"]
+                }
+            }
+        ],
+        "parts": ["西"],
+        "radical": "西",
+        "strokes": 6,
+        "lvl": "小学校の２年"
+    },
 
 
 
