@@ -6484,25 +6484,50 @@
                 "meanings": {
                     "es": ["el océano pacífico"]
                 }
-            },
-            {
-                "kotoba": "太平洋",
-                "reading": "たい.へい.よう",
-                "meanings": {
-                    "es": ["el oceano pacífico"]
-                }
-            },
-            {
-                "kotoba": "太平洋",
-                "reading": "たい.へい.よう",
-                "meanings": {
-                    "es": ["el oceano pacífico"]
-                }
             }
         ],
         "parts": ["丶", "大"],
         "radical": "大",
         "strokes": 4,
+        "lvl": "小学校の２年"
+    },
+    {
+        "ideogram": "体",
+        "kunyomi": ["からだ"],
+        "onyomi": ["タイ", "テイ"],
+        "words": [
+            {
+                "kotoba": "体",
+                "reading": "からだ",
+                "meanings": {
+                    "es": ["cuerpo"]
+                }
+            },
+            {
+                "kotoba": "体育",
+                "reading": "たい.いく",
+                "meanings": {
+                    "es": ["educación física"]
+                }
+            },
+            {
+                "kotoba": "体育館",
+                "reading": "たい.いく.かん",
+                "meanings": {
+                    "es": ["gimnasio"]
+                }
+            },
+            {
+                "kotoba": "体温計",
+                "reading": " たい.おん.けい",
+                "meanings": {
+                    "es": ["termómetro (médico)"]
+                }
+            }
+        ],
+        "parts": ["一", "化", "木"],
+        "radical": "人",
+        "strokes": 7,
         "lvl": "小学校の２年"
     },
 
