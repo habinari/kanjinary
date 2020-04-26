@@ -6587,6 +6587,24 @@
         "strokes": 6,
         "lvl": "小学校の２年"
     },
+    {
+        "ideogram": "池",
+        "kunyomi": ["いけ"],
+        "onyomi": ["チ"],
+        "words": [
+            {
+                "kotoba": "電池",
+                "reading": "でん.ち",
+                "meanings": {
+                    "es": ["batería", "pila"]
+                }
+            }
+        ],
+        "parts": ["汁", "也"],
+        "radical": "水",
+        "strokes": 6,
+        "lvl": "小学校の２年"
+    },
 
 
 
