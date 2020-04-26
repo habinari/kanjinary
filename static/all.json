@@ -6637,6 +6637,31 @@
         "strokes": 8,
         "lvl": "小学校の２年"
     },
+    {
+        "ideogram": "茶",
+        "kunyomi": [],
+        "onyomi": ["チャ", "サ"],
+        "words": [
+            {
+                "kotoba": "お茶",
+                "reading": "おちゃ",
+                "meanings": {
+                    "es": ["té"]
+                }
+            },
+            {
+                "kotoba": "茶道",
+                "reading": "さ.どう",
+                "meanings": {
+                    "es": ["ceremonia del té"]
+                }
+            }
+        ],
+        "parts": ["个", "艾", "木"],
+        "radical": "艸",
+        "strokes": 9,
+        "lvl": "小学校の２年"
+    },
 
 
 
