@@ -6740,6 +6740,45 @@
         "strokes": 8,
         "lvl": "小学校の２年"
     },
+    {
+        "ideogram": "鳥",
+        "kunyomi": ["とり"],
+        "onyomi": ["チョウ"],
+        "words": [
+            {
+                "kotoba": "鳥",
+                "reading": "とり",
+                "meanings": {
+                    "es": ["pájaro"]
+                }
+            },
+            {
+                "kotoba": "鳥居",
+                "reading": "とり.い",
+                "meanings": {
+                    "es": ["torii"]
+                }
+            },
+            {
+                "kotoba": "焼き鳥",
+                "reading": "やき.と.り",
+                "meanings": {
+                    "es": ["yakitori"]
+                }
+            },
+            {
+                "kotoba": "鳥肉",
+                "reading": "とり.にく",
+                "meanings": {
+                    "es": ["carne de pollo"]
+                }
+            }
+        ],
+        "parts": ["杰", "鳥"],
+        "radical": "鳥",
+        "strokes": 11,
+        "lvl": "小学校の２年"
+    },
 
 
 
