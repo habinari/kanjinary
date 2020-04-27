@@ -6690,7 +6690,7 @@
             },
             {
                 "kotoba": "昼休み",
-                "reading": "ひる.やすみ",
+                "reading": "ひる.やす.み",
                 "meanings": {
                     "es": ["descanso para comer"]
                 }
@@ -6699,6 +6699,45 @@
         "parts": ["一", "丶", "尸", "日"],
         "radical": "日",
         "strokes": 9,
+        "lvl": "小学校の２年"
+    },
+    {
+        "ideogram": "長",
+        "kunyomi": ["なが.い"],
+        "onyomi": ["チョウ"],
+        "words": [
+            {
+                "kotoba": "長い",
+                "reading": "なが.い",
+                "meanings": {
+                    "es": ["largo"]
+                }
+            },
+            {
+                "kotoba": "長話",
+                "reading": "なが.ばなし",
+                "meanings": {
+                    "es": ["larga conversación"]
+                }
+            },
+            {
+                "kotoba": "船長",
+                "reading": "せん.ちょう",
+                "meanings": {
+                    "es": ["capitán del barco"]
+                }
+            },
+            {
+                "kotoba": "校長先生",
+                "reading": "こう.ちょう.せん.せい",
+                "meanings": {
+                    "es": ["director del colegio"]
+                }
+            }
+        ],
+        "parts": ["長"],
+        "radical": "長",
+        "strokes": 8,
         "lvl": "小学校の２年"
     },
 
