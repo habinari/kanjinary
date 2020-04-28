@@ -6843,6 +6843,52 @@
         "strokes": 8,
         "lvl": "小学校の２年"
     },
+    {
+        "ideogram": "通",
+        "kunyomi": ["とお.る", "とお.す", "とお.し", "かよ.う"],
+        "onyomi": ["ツウ"],
+        "words": [
+            {
+                "kotoba": "通る",
+                "reading": "とお.る",
+                "meanings": {
+                    "es": ["atravesar"]
+                }
+            },
+            {
+                "kotoba": "通す",
+                "reading": "とお.す",
+                "meanings": {
+                    "es": ["hacer a algo atravesar"]
+                }
+            },
+            {
+                "kotoba": "通う",
+                "reading": "かよ.う",
+                "meanings": {
+                    "es": ["correr entre", "ir y volver"]
+                }
+            },
+            {
+                "kotoba": "通り道",
+                "reading": "とお.り.みち",
+                "meanings": {
+                    "es": ["ruta"]
+                }
+            },
+            {
+                "kotoba": "風通し",
+                "reading": "かぜ.とお.し",
+                "meanings": {
+                    "es": ["ventilación"]
+                }
+            }
+        ],
+        "parts": ["マ", "込", "用"],
+        "radical": "辵",
+        "strokes": 10,
+        "lvl": "小学校の２年"
+    },
 
 
 
