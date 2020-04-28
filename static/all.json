@@ -6988,6 +6988,31 @@
         "strokes": 8,
         "lvl": "小学校の２年"
     },
+    {
+        "ideogram": "点",
+        "kunyomi": [],
+        "onyomi": ["テン"],
+        "words": [
+            {
+                "kotoba": "交差点",
+                "reading": "こう.さ.てん",
+                "meanings": {
+                    "es": ["intersección"]
+                }
+            },
+            {
+                "kotoba": "点線",
+                "reading": "てん.せん",
+                "meanings": {
+                    "es": ["linea de puntos"]
+                }
+            }
+        ],
+        "parts": ["卜", "口", "杰"],
+        "radical": "火",
+        "strokes": 9,
+        "lvl": "小学校の２年"
+    },
 
 
 
