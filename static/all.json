@@ -7013,6 +7013,38 @@
         "strokes": 9,
         "lvl": "小学校の２年"
     },
+    {
+        "ideogram": "電",
+        "kunyomi": [],
+        "onyomi": ["デン"],
+        "words": [
+            {
+                "kotoba": "電車",
+                "reading": "でん.しゃ",
+                "meanings": {
+                    "es": ["tren"]
+                }
+            },
+            {
+                "kotoba": "電気",
+                "reading": "でん.き",
+                "meanings": {
+                    "es": ["electricidad"]
+                }
+            },
+            {
+                "kotoba": "電話",
+                "reading": "でん.わ",
+                "meanings": {
+                    "es": ["teléfono móvil"]
+                }
+            }
+        ],
+        "parts": ["乙", "田", "雨"],
+        "radical": "雨",
+        "strokes": 13,
+        "lvl": "小学校の２年"
+    },
 
 
 
