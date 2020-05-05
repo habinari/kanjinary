@@ -7468,6 +7468,52 @@
         "strokes": 10,
         "lvl": "小学校の２年"
     },
+    {
+        "ideogram": "売",
+        "kunyomi": ["う.る", "う.れる"],
+        "onyomi": ["バイ"],
+        "words": [
+            {
+                "kotoba": "売る",
+                "reading": "う.る",
+                "meanings": {
+                    "es": ["vender"]
+                }
+            },
+            {
+                "kotoba": "売れる",
+                "reading": "う.れる",
+                "meanings": {
+                    "es": ["venderse"]
+                }
+            },
+            {
+                "kotoba": "売店",
+                "reading": "ばい.てん",
+                "meanings": {
+                    "es": ["stand", "puesto", "quiosco"]
+                }
+            },
+            {
+                "kotoba": "商売",
+                "reading": "しょう.ばい",
+                "meanings": {
+                    "es": ["comercio", "transacción"]
+                }
+            },
+            {
+                "kotoba": "発売",
+                "reading": "はつ.ばい",
+                "meanings": {
+                    "es": ["oferta (de ventas, negocios etc.)"]
+                }
+            }
+        ],
+        "parts": ["儿", "冖", "士"],
+        "radical": "士",
+        "strokes": 7,
+        "lvl": "小学校の２年"
+    },
 
 
 
