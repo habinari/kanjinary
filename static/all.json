@@ -7649,6 +7649,38 @@
         "strokes": 12,
         "lvl": "小学校の２年"
     },
+    {
+        "ideogram": "父",
+        "kunyomi": ["ちち"],
+        "onyomi": ["フ"],
+        "words": [
+            {
+                "kotoba": "父",
+                "reading": "ちち",
+                "meanings": {
+                    "es": ["padre"]
+                }
+            },
+            {
+                "kotoba": "父親",
+                "reading": "ちち.おや",
+                "meanings": {
+                    "es": ["padre"]
+                }
+            },
+            {
+                "kotoba": "父母",
+                "reading": "ふ.ぼ",
+                "meanings": {
+                    "es": ["padres"]
+                }
+            }
+        ],
+        "parts": ["父"],
+        "radical": "父",
+        "strokes": 4,
+        "lvl": "小学校の２年"
+    },
 
 
 
