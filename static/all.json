@@ -8369,6 +8369,45 @@
         "strokes": 4,
         "lvl": "小学校の２年"
     },
+    {
+        "ideogram": "用",
+        "kunyomi": ["もち.いる"],
+        "onyomi": ["ヨウ"],
+        "words": [
+            {
+                "kotoba": "用いる",
+                "reading": "もち.いる",
+                "meanings": {
+                    "es": ["utilizar", "usar"]
+                }
+            },
+            {
+                "kotoba": "用意",
+                "reading": "よう.い",
+                "meanings": {
+                    "es": ["preparación", "previsión"]
+                }
+            },
+            {
+                "kotoba": "画用紙",
+                "reading": "が.よう.し",
+                "meanings": {
+                    "es": ["papel de dibujo"]
+                }
+            },
+            {
+                "kotoba": "利用",
+                "reading": "り.よう",
+                "meanings": {
+                    "es": ["utilización"]
+                }
+            }
+        ],
+        "parts": ["用"],
+        "radical": "用",
+        "strokes": 5,
+        "lvl": "小学校の２年"
+    },
 
 
 
