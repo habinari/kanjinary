@@ -8507,6 +8507,24 @@
         "strokes": 7,
         "lvl": "小学校の２年"
     },
+    {
+        "ideogram": "里",
+        "kunyomi": ["さと"],
+        "onyomi": ["リ"],
+        "words": [
+            {
+                "kotoba": "里",
+                "reading": "さと",
+                "meanings": {
+                    "es": ["villa"]
+                }
+            }
+        ],
+        "parts": ["里"],
+        "radical": "里",
+        "strokes": 7,
+        "lvl": "小学校の２年"
+    },
 
 
 
