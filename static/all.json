@@ -8635,6 +8635,45 @@
         "strokes": 11,
         "lvl": "小学校の３年"
     },
+    {
+        "ideogram": "安",
+        "kunyomi": ["やす.い"],
+        "onyomi": ["アン"],
+        "words": [
+            {
+                "kotoba": "安い",
+                "reading": "やす.い",
+                "meanings": {
+                    "es": ["barato", "tranquilo"]
+                }
+            },
+            {
+                "kotoba": "安心",
+                "reading": "あん.しん",
+                "meanings": {
+                    "es": ["paz mental", "despreocupación"]
+                }
+            },
+            {
+                "kotoba": "安売り",
+                "reading": "やす.う.り",
+                "meanings": {
+                    "es": ["venta barata"]
+                }
+            },
+            {
+                "kotoba": "安全",
+                "reading": "あん.ぜん",
+                "meanings": {
+                    "es": ["seguridad", "estar a salvo"]
+                }
+            }
+        ],
+        "parts": ["女", "宀"],
+        "radical": "宀",
+        "strokes": 6,
+        "lvl": "小学校の３年"
+    },
 
 
 
