@@ -8674,6 +8674,38 @@
         "strokes": 6,
         "lvl": "小学校の３年"
     },
+    {
+        "ideogram": "暗",
+        "kunyomi": ["くら.い"],
+        "onyomi": ["アン"],
+        "words": [
+            {
+                "kotoba": "暗い",
+                "reading": "くら.い",
+                "meanings": {
+                    "es": ["oscuro"]
+                }
+            },
+            {
+                "kotoba": "暗算",
+                "reading": "あん.ざん",
+                "meanings": {
+                    "es": ["cálculo mental"]
+                }
+            },
+            {
+                "kotoba": "暗記",
+                "reading": "あん.き",
+                "meanings": {
+                    "es": ["memorización"]
+                }
+            }
+        ],
+        "parts": ["日", "立", "音"],
+        "radical": "日",
+        "strokes": 13,
+        "lvl": "小学校の３年"
+    },
 
 
 
