@@ -9048,6 +9048,45 @@
         "strokes": 15,
         "lvl": "小学校の３年"
     },
+    {
+        "ideogram": "屋",
+        "kunyomi": ["や"],
+        "onyomi": ["オク"],
+        "words": [
+            {
+                "kotoba": "本屋",
+                "reading": "ほん.や",
+                "meanings": {
+                    "es": ["librería"]
+                }
+            },
+            {
+                "kotoba": "屋上",
+                "reading": "おく.じょう",
+                "meanings": {
+                    "es": ["azotea"]
+                }
+            },
+            {
+                "kotoba": "花屋",
+                "reading": "はな.や",
+                "meanings": {
+                    "es": ["floristería"]
+                }
+            },
+            {
+                "kotoba": "八百屋",
+                "reading": "や.お.や",
+                "meanings": {
+                    "es": ["frutería"]
+                }
+            }
+        ],
+        "parts": ["厶", "土", "尸", "至"],
+        "radical": "尸",
+        "strokes": 9,
+        "lvl": "小学校の３年"
+    },
 
 
 
