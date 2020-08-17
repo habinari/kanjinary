@@ -56,12 +56,12 @@ allKanjis.forEach(kanji => saveJsonData(KANJI_PATH, kanji.ideogram, kanji))
 let allLevels = []
 
 allKanjis.forEach(kanji => {
-    let lvl = allLevels.find(lvl => lvl.name == kanji.lvl)
+    let lvl = allLevels.find(lvl => lvl.name == kanji.lvls['nihon-gakko'])
     if(lvl)
         lvl.kanjis.push(kanji.ideogram)
     else 
         allLevels.push({
-            name: kanji.lvl,
+            name: kanji.lvls['nihon-gakko'],
             kanjis: [kanji.ideogram]
         })
 })
