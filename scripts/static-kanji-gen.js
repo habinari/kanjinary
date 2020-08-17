@@ -8,19 +8,19 @@
 const createDirectoryIfNotExist = path => {
     const fs = require('fs')
     if (!fs.existsSync(path)){
-        fs.mkdirSync(path);
+        fs.mkdirSync(path)
     }
 }
 
 const saveJsonData = (path, fileName, object) => {
-    const fs = require('fs');
+    const fs = require('fs')
     const dir = path + fileName + '.json'
     const jsonData = JSON.stringify(object)
     fs.writeFile(dir, jsonData, function (err) {
         if (err) {
-            console.log(err);
+            console.log(err)
         }
-    });
+    })
 }
 
 /*
@@ -29,8 +29,8 @@ const saveJsonData = (path, fileName, object) => {
 ------------------------------------------------------
 */
 
-const ROOT_PATH = './dist'
-const BASE_PATH = './dist/static/'
+const ROOT_PATH = './dist/'
+const BASE_PATH = ROOT_PATH + 'static/'
 
 const KANJI_PATH = BASE_PATH + 'kanji/'
 const LEVEL_PATH = BASE_PATH + 'lvl/'
@@ -43,7 +43,7 @@ const ON_PATH = BASE_PATH + 'onyomi/'
 ------------------------------------------------------
 */
 
-const allKanjis = require('./static/all.json')
+const allKanjis = require('../static/all.json')
 createDirectoryIfNotExist(ROOT_PATH)
 createDirectoryIfNotExist(BASE_PATH)
 
