@@ -5,7 +5,7 @@ try:
     conn = MongoClient() 
     print("MongoDB Connection success.") 
 except:   
-    print("Could not connect to MongoDB") 
+    print("Could not connect to MongoDB.") 
 
 mongodb = conn.kanjinary
 
@@ -24,7 +24,7 @@ for kanji_data in data:
     radical = kanji_data['radical']
     if not radical in radicals:
         radicals[radical] = []
-    radicals[radical].append(kanji_data)
+    radicals[radical].append(kanji_data['ideogram'])
 
 for key, value in radicals.items():
     mongodb.radicals.insert_one({
@@ -40,7 +40,7 @@ for kanji_data in data:
     stroke_num = kanji_data['strokes']
     if not stroke_num in strokes:
         strokes[stroke_num] = []
-    strokes[stroke_num].append(kanji_data)
+    strokes[stroke_num].append(kanji_data['ideogram'])
 
 for key, value in strokes.items():
     mongodb.strokes.insert_one({
@@ -48,3 +48,19 @@ for key, value in strokes.items():
         'kanjis': value
     })
 strokes = None
+
+# --- save kanjis by parts of kanji ---
+mongodb['parts'].drop()
+parts = {}
+for kanji_data in data:
+    for part in kanji_data['parts']:
+        if not part in parts:
+            parts[part] = []
+        parts[part].append(kanji_data['ideogram'])
+
+for key, value in parts.items():
+    mongodb.parts.insert_one({
+        'ideogram': key,
+        'kanjis': value
+    })
+parts = None
