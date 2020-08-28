@@ -5,7 +5,7 @@ from services.database import mongo
 
 from models.base_model import BaseModel
 
-def find(search_dict) -> List['Kanji']:
+def find(search_dict={}) -> List['Kanji']:
     return list(mongo.db.kanjis.find(search_dict, {'_id': False}))
 
 class Kanji(BaseModel):
