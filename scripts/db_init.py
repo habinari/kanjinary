@@ -64,3 +64,36 @@ for key, value in parts.items():
         'kanjis': value
     })
 parts = None
+
+# --- save kanjis by kunyomis ---
+mongodb['yomis'].drop()
+kunyomis = {}
+for kanji_data in data:
+    for yomi in kanji_data['kunyomi']:
+        if not yomi in kunyomis:
+            kunyomis[yomi] = []
+        kunyomis[yomi].append(kanji_data['ideogram'])
+
+for key, value in kunyomis.items():
+    mongodb.yomis.insert_one({
+        'yomi': key,
+        'type': "kunyomi",
+        'kanjis': value
+    })
+kunyomis = None
+
+# --- save kanjis by onyomis ---
+onyomis = {}
+for kanji_data in data:
+    for yomi in kanji_data['onyomi']:
+        if not yomi in onyomis:
+            onyomis[yomi] = []
+        onyomis[yomi].append(kanji_data['ideogram'])
+
+for key, value in onyomis.items():
+    mongodb.yomis.insert_one({
+        'yomi': key,
+        'type': "onyomi",
+        'kanjis': value
+    })
+onyomis = None
