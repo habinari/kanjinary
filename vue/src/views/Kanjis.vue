@@ -38,7 +38,7 @@ export default {
             const kanjiReference = this.$route.params.kanji
             var vueCtx = this
             var axios = require('axios')
-            axios.get(KANJI_PATH + kanjiReference + '.json')
+            axios.get(KANJI_PATH + kanjiReference)
                 .then(function (response) {
                   vueCtx.kanji = response.data
                 })

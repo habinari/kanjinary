@@ -43,7 +43,7 @@ export default {
                 this.lvlReference = this.$route.params.lvl
             var vueCtx = this
             var axios = require('axios')
-            axios.get(LVL_PATH + vueCtx.lvlReference + '.json')
+            axios.get(LVL_PATH + vueCtx.lvlReference)
                 .then(function (response) {
                   vueCtx.levels = response.data
                   if(vueCtx.lvlReference != 'all')
