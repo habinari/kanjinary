@@ -1,3 +1,4 @@
+const fs = require('fs')
 
 /*
 ------------------------------------------------------
@@ -6,14 +7,12 @@
 */
 
 const createDirectoryIfNotExist = path => {
-    const fs = require('fs')
     if (!fs.existsSync(path)){
         fs.mkdirSync(path)
     }
 }
 
 const saveJsonData = (path, fileName, object) => {
-    const fs = require('fs')
     const dir = path + fileName
     const jsonData = JSON.stringify(object)
     fs.writeFile(dir, jsonData, function (err) {
