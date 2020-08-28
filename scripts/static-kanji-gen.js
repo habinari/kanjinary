@@ -14,7 +14,7 @@ const createDirectoryIfNotExist = path => {
 
 const saveJsonData = (path, fileName, object) => {
     const fs = require('fs')
-    const dir = path + fileName + '.json'
+    const dir = path + fileName
     const jsonData = JSON.stringify(object)
     fs.writeFile(dir, jsonData, function (err) {
         if (err) {
