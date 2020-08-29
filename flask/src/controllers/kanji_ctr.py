@@ -13,7 +13,7 @@ def search(query={}):
 
 
 @app.route('/api/kanji/<ideogram>', methods=['GET'])
-def search(ideogram):
+def search_one(ideogram):
     return find_one({
         'ideogram': ideogram
     })
