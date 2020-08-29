@@ -8,7 +8,7 @@ const fs = require('fs')
 
 const createDirectoryIfNotExist = path => {
     if (!fs.existsSync(path)){
-        fs.mkdirSync(path)
+        fs.mkdirSync(path, { recursive: true })
     }
 }
 
@@ -29,10 +29,10 @@ const saveJsonData = (path, fileName, object) => {
 */
 
 const ROOT_PATH = './dist/'
-const BASE_PATH = ROOT_PATH + 'static/'
+const BASE_PATH = ROOT_PATH + 'api/'
 
 const KANJI_PATH = BASE_PATH + 'kanji/'
-const LEVEL_PATH = BASE_PATH + 'lvl/'
+const LEVEL_PATH = BASE_PATH + 'classification/nihon-gakko/lvl/'
 const KUN_PATH = BASE_PATH + 'kunyomi/'
 const ON_PATH = BASE_PATH + 'onyomi/'
 

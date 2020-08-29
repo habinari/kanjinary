@@ -8,7 +8,7 @@
 
 <script>
 
-const LVL_PATH = 'https://www.javierparada.dev/kanjinary/static/lvl/'
+const LVL_PATH = 'https://www.javierparada.dev/kanjinary/api/classification/nihon-gakko/lvl/'
 
 import Level from '@/components/Level.vue'
 
