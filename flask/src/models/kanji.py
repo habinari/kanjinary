@@ -5,8 +5,15 @@ from services.database import mongo
 
 from models.base_model import BaseModel
 
+
 def find(search_dict={}) -> List['Kanji']:
     return list(mongo.db.kanjis.find(search_dict, {'_id': False}))
+
+
+def find_one(search_dict={}) -> List['Kanji']:
+    print(search_dict)
+    return mongo.db.kanjis.find_one(search_dict, {'_id': False})
+
 
 class Kanji(BaseModel):
     def __init__(self, ideogram, kunyomi, onyomi, parts, radical, strokes, lvl):
@@ -14,6 +21,7 @@ class Kanji(BaseModel):
         self.kunyomi = kunyomi
         self.onyomi = onyomi
         self.parts = parts
+
 
 class KanjiSchema(Schema):
     ideogram = fields.String()
