@@ -1,2 +1,3 @@
 from controllers import kanji_ctr
 from controllers import static_file_server_ctr
+from controllers import yomi_ctr
