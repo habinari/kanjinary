@@ -3,6 +3,9 @@
   "properties": {
     "radical": {
       "type": "string"
+    },
+    "strokes": {
+      "type": "number"
     }
   },
   "additionalProperties": false

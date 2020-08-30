@@ -6,10 +6,10 @@ from decorators.build_query import build_query
 
 
 @app.route('/api/kanji', methods=['GET'])
+@build_query([('strokes', 'number')])
 @verify_query_params('kanji-search')
-@build_query
-def search(query={}):
-    return jsonify(find(query))
+def search(**kwargs):
+    return jsonify(find(kwargs['query']))
 
 
 @app.route('/api/kanji/<ideogram>', methods=['GET'])

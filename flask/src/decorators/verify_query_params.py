@@ -10,7 +10,7 @@ def verify_query_params(schema):
 
     def decorator(f):
         def decorated_function_wrapper(**kwargs):
-            validate(request.args.to_dict(), schema)
+            validate(kwargs['query'], schema)
             return f(**kwargs)
         return decorated_function_wrapper
     return decorator
