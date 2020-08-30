@@ -15,14 +15,14 @@ def find_one(search_dict={}) -> List['Yomis']:
     return mongo.db.yomis.find_one(search_dict, {'_id': False})
 
 
-class Kanji(BaseModel):
+class Yomi(BaseModel):
     def __init__(self, yomi, kanjis, type):
         self.yomi = yomi
         self.kanjis = kanjis
         self.type = type
 
 
-class KanjiSchema(Schema):
+class YomiSchema(Schema):
     yomi = fields.String()
     kanjis = fields.List(fields.String())
     type = fields.String()
