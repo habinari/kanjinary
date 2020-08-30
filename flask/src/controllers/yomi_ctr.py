@@ -8,5 +8,5 @@ def search_one_kunyomi(yomi_type, yomi):
         'yomi': yomi,
         'type': yomi_type
     })
-    return jsonify(yomi['kanjis'] if yomi is not None else [])
+    return jsonify(yomi['kanjis'] if yomi else [])
 
