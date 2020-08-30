@@ -8,7 +8,10 @@ def build_query(special_types=[]):
             query = request.args.to_dict()
             for key, value in special_types:
                 if value == 'number' and key in query:
-                    query[key] = int(query[key])
+                    try:
+                        query[key] = int(query[key])
+                    except:
+                        pass
             kwargs['query'] = query
             return f(**kwargs)
         return decorated_function_wrapper
