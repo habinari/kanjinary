@@ -76,7 +76,7 @@ for kanji_data in data:
 
 for key, value in kunyomis.items():
     mongodb.yomis.insert_one({
-        'yomi': key,
+        'yomi': key.replace('.', ''),
         'type': "kunyomi",
         'kanjis': value
     })
