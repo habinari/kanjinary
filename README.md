@@ -1,6 +1,6 @@
 # Kanjinary 漢字ナリ
 
-[![](https://img.shields.io/github/license/habinari/kanjinary.svg?style=flat-square)](https://github.com/habinari/kanjinary/blob/master/LICENSE)
+[![](https://img.shields.io/github/license/parada3desu/kanjinary.svg?style=flat-square)](https://github.com/parada3desu/kanjinary/blob/master/LICENSE)
 ![](https://img.shields.io/badge/version-1.0-green.svg?style=flat-square)
 ![](https://img.shields.io/badge/PRs-welcome-green.svg?style=flat-square)
 
@@ -32,15 +32,15 @@ npm install
 
 ## Versioning
 
-I use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/habinari/kanjinary/tags). 
+I use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/parada3desu/kanjinary/tags). 
 
 ## Contributors
 
 <table cellspacing="0" cellpadding="1">
     <tr>
         <td>
-            <a href="https://github.com/habinari"><img src="https://avatars3.githubusercontent.com/u/19194763?s=460&v=4"
-                    width="100px;" height="100px;" alt="habinari" /><br /><sub><b>Javier Parada</b></sub></a>
+            <a href="https://github.com/parada3desu"><img src="https://avatars3.githubusercontent.com/u/19194763?s=460&v=4"
+                    width="100px;" height="100px;" alt="parada3desu" /><br /><sub><b>Javier Parada</b></sub></a>
                 <br/>
                 <a href="#" title="Ideas">🤔</a>
                 <a href="#" title="Code">💻</a>
@@ -48,9 +48,9 @@ I use [SemVer](http://semver.org/) for versioning. For the versions available, s
     </tr>
 </table>
 
-See also the list of [contributors](https://github.com/habinari/kanjinary/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/parada3desu/kanjinary/contributors) who participated in this project.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE]([LICENSE.md](https://github.com/habinari/kanjinary/blob/master/LICENSE)) file for details
+This project is licensed under the MIT License - see the [LICENSE]([LICENSE.md](https://github.com/parada3desu/kanjinary/blob/master/LICENSE)) file for details
 
